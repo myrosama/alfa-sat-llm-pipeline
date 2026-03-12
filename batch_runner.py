@@ -56,6 +56,8 @@ def main():
                         help="Parse and validate but do NOT write to Firestore")
     parser.add_argument("--full", action="store_true",
                         help="Run full pipeline with critic + gap filler (Pass 2+)")
+    parser.add_argument("--random", action="store_true",
+                        help="Process PDFs in a random order instead of alphabetical")
     parser.add_argument("--output-dir", type=str, default="output",
                         help="Directory for JSON backups")
     args = parser.parse_args()
@@ -72,11 +74,16 @@ def main():
     print(f"   Resume: {args.resume}")
 
     pdf_files = sorted(glob.glob(os.path.join(args.folder, "*.pdf")))
+    if args.random:
+        import random
+        random.seed()
+        random.shuffle(pdf_files)
+        
     if not pdf_files:
         print(f"❌ No PDFs found in {args.folder}")
         return
 
-    print(f"📄 Found {len(pdf_files)} PDFs")
+    print(f"📄 Found {len(pdf_files)} PDFs (Random order: {args.random})")
 
     # Estimate time
     calls_per_pdf = 20 if extract_only else 50

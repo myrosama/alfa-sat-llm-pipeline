@@ -135,10 +135,11 @@ RULES:
 - "correctAnswer" = letter for mcq ("A","B","C","D"), or the numeric value as a string for fill-in (e.g., "4", "3/2", "0.75").
 - "fillInAnswer" = for fill-in questions, same as correctAnswer. For mcq, empty string "".
 - "explanation" = step-by-step solution. Use $...$ for all math. HTML formatted with <p> tags.
-- "hasImage" = set to true if the question has a graph, geometric figure, coordinate plane, or complex table. 
-- CRITICAL: NEVER try to represent geometry or coordinate planes as text. If an image exists, set hasImage: true and provide the bbox.
-- IMAGE BOUNDING BOX (CRITICAL): If hasImage is true, you MUST provide the "image_bbox" object. This is MANDATORY. Do not omit it. Provide the page number (1-indexed) and normalized coordinates (0.0 to 1.0, where 0,0 is top-left and 1,0 is top-right) of the visual element. 
-- TIGHT CROPPING: Draw the "image_bbox" TIGHTLY around ONLY the diagram, graph, or chart. DO NOT include any part of the question text, options, or page numbers in the bbox. This is for visual display only.
+- "hasImage" = set to true ONLY if the question has a complex graph, geometric figure, coordinate plane, or data table that cannot be represented as text. 
+- CRITICAL: NEVER set hasImage to true for mathematical equations, formulas, fractions, simply formatted text, or basic shapes (like a simple circle without data). Wrap math in $...$ instead.
+- IMAGE BOUNDING BOX (CRITICAL): If hasImage is true, you MUST provide the "image_bbox" object. Provide the page number (1-indexed) and normalized coordinates (0.0 to 1.0) of the visual element. 
+- TIGHT CROPPING: Draw the "image_bbox" TIGHTLY around ONLY the diagram, graph, or chart. DO NOT include question text.
+- "imageWidth" = if hasImage is true, estimate the display size needed: "small" (e.g. simple geometry), "medium" (e.g. scatterplot), or "full" (e.g. large data table). If false, set to "".
 - MULTI-PAGE QUESTIONS: If a question spans across two pages, combine the text (passage/prompt) into a single continuous string with LaTeX. Identify the `imagePage` as the page where the visual element actually resides.
 - INTERNAL NUMBERING (CRITICAL): Regardless of the number printed in the PDF (e.g., if you see Question 45 in Module 2), always map it to the relative question number for that module starting from 1. For example, the first question in the second Math module should be "questionNumber": 1.
 - "domain" and "skill" = must EXACTLY match one of the values below.
@@ -162,11 +163,12 @@ Return a JSON array of objects with these fields (CRITICAL: Do not omit image_bb
   "skill": "...",
   "explanation": "<p>...</p>",
   "hasImage": false,
+  "imageWidth": "",
   "image_bbox": {"page": 1, "x0": 0.0, "y0": 0.0, "x1": 1.0, "y1": 1.0}
 }]
 
 For fill-in questions, set options to {"A": "", "B": "", "C": "", "D": ""} and format to "fill-in".
-If hasImage is false, you may omit the image_bbox field entirely. BUT IF IT IS TRUE, YOU MUST INCLUDE IT.
+If hasImage is false, you may omit the image_bbox and imageWidth fields. BUT IF IT IS TRUE, YOU MUST INCLUDE THEM.
 """
 
 

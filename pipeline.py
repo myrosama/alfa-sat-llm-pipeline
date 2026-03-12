@@ -633,8 +633,10 @@ For EACH question, return a JSON object with:
 - "domain": EXACTLY one of: "Algebra", "Advanced Math", "Problem-Solving and Data Analysis", "Geometry and Trigonometry". Note that questions naturally progress from easier difficulty (Q1) to harder difficulty (Q22).
 - "skill": """ + str(list(prompts.MATH_TAXONOMY.values())) + """
 - "explanation": step-by-step solution with $...$. HTML formatted.
-- "needsImageExtraction": true IF the question relies on a visual scatterplot, geometry diagram, graph, or complex data table. If you see ANY drawing or plot, set this to TRUE.
+- "needsImageExtraction": true ONLY IF the question relies on a complex visual scatterplot, geometry diagram, graph, or complex data table.
+- CRITICAL: NEVER set needsImageExtraction to true for mathematical equations, standalone formulas, fractions, or simply formatted text. Wrap all math in $...$ instead.
 - "imagePage": (int) the 1-indexed page number of the PDF where the required image/diagram is actually located. If needsImageExtraction is true, you MUST provide this exact page number. If false, set it to 0.
+- "imageWidth": if needsImageExtraction is true, estimate size needed: "small" (simple geometry), "medium" (graph), or "full" (wide table). If false, set to "".
 
 CRITICAL RULES:
 - ALL math expressions MUST use $...$ LaTeX delimiters
@@ -664,8 +666,10 @@ For EACH question, return a JSON object with:
 - "domain": EXACTLY one of: "Algebra", "Advanced Math", "Problem-Solving and Data Analysis", "Geometry and Trigonometry"
 - "skill": "Descriptive skill name"
 - "explanation": Brief step-by-step solution.
-- "needsImageExtraction": true ONLY IF the question relies on a pure visual scatterplot, geometry diagram, or complex data table. Set to FALSE for equations.
+- "needsImageExtraction": true ONLY IF the question relies on a pure visual scatterplot, geometry diagram, or complex data table.
+- CRITICAL: NEVER set needsImageExtraction to true for mathematical equations, geometric notation without pictures, fractions, or basic shapes like a single empty circle.
 - "imagePage": (int) the 1-indexed page number of the PDF where the required image/diagram is actually located. If needsImageExtraction is true, you MUST provide this exact page number. If false, set it to 0.
+- "imageWidth": if needsImageExtraction is true, estimate size needed: "small" (simple geometry), "medium" (graph), or "full" (wide table). If false, set to "".
 
 Return ONLY a valid JSON array."""
 

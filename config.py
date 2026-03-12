@@ -34,11 +34,7 @@ FIRESTORE_PROJECT_ID = "alfasatuz"
 ADMIN_UID = "Kz0qlMcOk9XmPLGytEHm2nOYMhY2"
 
 # --- Telegram (for image uploads) ---
-TELEGRAM_BOT_TOKENS = [
-    "8346966004:AAEjpZCJ1bdo177gQw4K_kgk8Pk8W1z0OHM",
-    "8612742009:AAG19ZeeUoTF-8VRYkBtZF6yPxETD_9_8BU",
-    "8479455437:AAE28dE-T2z7jzL1oVcdha0rX6sLhiUpqHg",
-]
+
 TELEGRAM_CHANNEL_ID = "-1002674756395"
 
 # --- Pipeline Settings ---

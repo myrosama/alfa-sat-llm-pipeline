@@ -73,6 +73,7 @@ def print_dashboard():
     print("  [3] Process a RANDOM PDF (Pass 1 + Pass 2)")
     print("      (Picks one file you haven't started yet)")
     print("  [4] Run Step 2 Only (Fixes & Images for existing JSONs)")
+    print("  [5] 🎲 Process FULL BATCH in RANDOM order")
     print("  [Q] Quit")
     print("=" * 60)
 
@@ -173,6 +174,55 @@ def main():
             print("\n🛠️ Resuming Pass 2 for all extracted JSONs...")
             run_cmd([PYTHON_EXEC, FIX_RUNNER, "--resume"])
             input("\n✅ Done. Press Enter to return to Dashboard...")
+            
+        elif choice == '5':
+            print("\n🎲 Starting Full Batch in RANDOM order (Pass 1 + Pass 2 per PDF)...")
+            import random
+            progress = load_json(PROGRESS_FILE, {"completed": []})
+            completed = set(progress.get("completed", []))
+            
+            all_pdfs = [f.stem for f in Path("./pdfs").glob("*.pdf")]
+            available = [p for p in all_pdfs if p.replace(" ", "_").lower() not in completed]
+            
+            if not available:
+                print("\n🎉 All PDFs in the folder are already completed!")
+                time.sleep(2)
+                continue
+                
+            random.shuffle(available)
+            
+            for index, pdf_id in enumerate(available, start=1):
+                pdf_file = f"./pdfs/{pdf_id}.pdf"
+                
+                name = pdf_id.split("@")[0].strip()
+                clean_id = name.lower()
+                for char in ["(", ")", "[", "]", ",", ".", "-", "+", "=", "#"]:
+                    clean_id = clean_id.replace(char, "")
+                clean_id = clean_id.replace(" ", "_")
+                while "__" in clean_id:
+                    clean_id = clean_id.replace("__", "_")
+                clean_id = clean_id.strip("_")
+                
+                print(f"\n============================================================")
+                print(f"🎲 [{index}/{len(available)}] Processing: {pdf_id}")
+                print(f"============================================================")
+                
+                # Re-check completion just in case
+                current_progress = load_json(PROGRESS_FILE, {"completed": []})
+                if f"{pdf_id}.pdf" in current_progress.get("completed", []):
+                    continue
+                    
+                # Run Pass 1
+                run_cmd([PYTHON_EXEC, PIPELINE_SCRIPT, pdf_file, pdf_id.split("@")[0].strip(), clean_id])
+                
+                # Run Pass 2
+                run_cmd([PYTHON_EXEC, FIX_RUNNER, "--single", clean_id])
+                
+                # Save progress
+                current_progress["completed"].append(f"{pdf_id}.pdf")
+                with open(PROGRESS_FILE, "w") as f: json.dump(current_progress, f, indent=2)
+                
+            input("\n✅ Done with Random Full Batch. Press Enter to return to Dashboard...")
             
         elif choice == 'q':
             print("👋 Goodbye!")

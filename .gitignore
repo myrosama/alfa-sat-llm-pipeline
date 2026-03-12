@@ -5,6 +5,7 @@ __pycache__/
 
 # Sensitive Info (DO NOT REMOVE FROM GITIGNORE)
 .env
+config.py
 serviceAccountKey.json
 
 # Local Progress & Quotas
