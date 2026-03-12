@@ -16,6 +16,7 @@ progress/
 output/
 temp_pages/
 test_crops/
+pdfs/
 
 # Local Logs
 *.log

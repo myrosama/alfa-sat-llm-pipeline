@@ -86,13 +86,13 @@ def main():
             
             # Pass 1: Pipeline (if needed, but usually we just run the single fix)
             # Actually for a single PDF we should run the whole thing
-            run_cmd([sys.executable, PIPELINE_SCRIPT, "--pdf", f"../pdfs/{pdf_name}.pdf"])
+            run_cmd([sys.executable, PIPELINE_SCRIPT, "--pdf", f"./pdfs/{pdf_name}.pdf"])
             run_cmd([sys.executable, FIX_RUNNER, "--single", pdf_name])
             input("\n✅ Done. Press Enter to return to Dashboard...")
             
         elif choice == '2':
             print("\n🚀 Starting Full Batch (Pass 1)...")
-            run_cmd([sys.executable, BATCH_RUNNER, "--folder", "../pdfs/", "--resume"])
+            run_cmd([sys.executable, BATCH_RUNNER, "--folder", "./pdfs/", "--resume"])
             
             print("\n🛠️ Starting Full Batch Fixes (Pass 2)...")
             run_cmd([sys.executable, FIX_RUNNER, "--resume"])
