@@ -207,6 +207,7 @@ def call_gemini_with_pdf(pdf_path: str, prompt: str, page_hint: str = "", start:
     """
     Upload entire PDF to Gemini and extract questions in a SINGLE call.
     """
+    global _key_index, _key_usage
     key, kidx = _choose_key_and_wait()
 
     # Isolation: Slice PDF if range provided
@@ -313,7 +314,7 @@ def call_gemini_with_pdf(pdf_path: str, prompt: str, page_hint: str = "", start:
             print(f"  ⚠️ Rate limited! Waiting 65s and rotating key...")
             _key_index += 1
             time.sleep(65)
-            return call_gemini_with_pdf(pdf_path, prompt, page_hint)
+            return call_gemini_with_pdf(pdf_path, prompt, page_hint, start=start, end=end, model_name=model_name)
         print(f"  ❌ Gemini Error: {e}")
         return []
 
@@ -470,7 +471,7 @@ def wrap_formulas_in_quill(text: str) -> str:
     def clean_html(html: str) -> str:
         # Remove empty paragraphs or doubled paragraphs
         html = re.sub(r'<p>\s*<p', '<p', html)
-        html = re.sub(r'<\/p>\s*<\/p>', '<\/p>', html)
+        html = re.sub(r'</p>\s*</p>', '</p>', html)
         # Fix the "unwanted space after function" issue
         # Often occurs as </span> </p> or </span> ,
         html = re.sub(r'<\/span>\s+([,.?;:])', r'</span>\1', html)
@@ -603,7 +604,7 @@ For EACH question, return a JSON object with:
     - Q20 - Q27: "Expression of Ideas" (Transitions and Notes)
 - "skill": """ + str(list(prompts.RW_TAXONOMY.values())) + """
 - "explanation": 2-3 sentence explanation. HTML formatted.
-- "needsImageExtraction": true ONLY IF the question relies on a chart, graph, or table to be solved. Set to FALSE for standard text passages.
+- "needsImageExtraction": true ONLY IF the question relies on a chart, graph, table, or visual diagram to be solved. If you see ANY visual element other than pure text, set this to TRUE.
 - "imagePage": (int) the 1-indexed page number of the PDF where the required image/chart/graph is actually located. If needsImageExtraction is true, you MUST provide this exact page number. If false, set it to 0.
 
 CRITICAL RULES:
@@ -631,8 +632,8 @@ For EACH question, return a JSON object with:
 - "format": "mcq" or "fill-in"
 - "domain": EXACTLY one of: "Algebra", "Advanced Math", "Problem-Solving and Data Analysis", "Geometry and Trigonometry". Note that questions naturally progress from easier difficulty (Q1) to harder difficulty (Q22).
 - "skill": """ + str(list(prompts.MATH_TAXONOMY.values())) + """
-- "explanation": Step-by-step solution with $...$. HTML formatted.
-- "needsImageExtraction": true ONLY IF the question relies on a pure visual scatterplot, geometry diagram, or complex data table. Set to FALSE for pure equations, word problems, or expressions.
+- "explanation": step-by-step solution with $...$. HTML formatted.
+- "needsImageExtraction": true IF the question relies on a visual scatterplot, geometry diagram, graph, or complex data table. If you see ANY drawing or plot, set this to TRUE.
 - "imagePage": (int) the 1-indexed page number of the PDF where the required image/diagram is actually located. If needsImageExtraction is true, you MUST provide this exact page number. If false, set it to 0.
 
 CRITICAL RULES:
@@ -820,9 +821,8 @@ def process_pdf(pdf_path: str, test_name: str, test_id: str,
     # ─── No Image Cropping in Pass 1 ───
     # Phase 3 Algorithm: pipeline.py only focuses on text extraction and structure.
     # Image formatting and OCR verification are deferred to quality_agents.py (Agent 4 & 5).
-    for q in final_list:
-        if not q.get("needsImageExtraction"):
-            q.pop("image_bbox", None)
+    # We keep image_bbox if the AI provided it, as it might be useful for Agent 4.
+    pass
 
     # Completeness check (free — no API)
     if not extract_only:

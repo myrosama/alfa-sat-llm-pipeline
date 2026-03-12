@@ -28,8 +28,9 @@ import config
 def clean_test_id(filename: str) -> str:
     """Convert PDF filename to a valid Firestore document ID."""
     name = Path(filename).stem
+    name = name.split("@")[0].strip()
     clean = name.lower()
-    for char in ["@", "(", ")", "[", "]", ",", ".", "-", "+", "=", "#"]:
+    for char in ["(", ")", "[", "]", ",", ".", "-", "+", "=", "#"]:
         clean = clean.replace(char, "")
     clean = clean.replace(" ", "_")
     while "__" in clean:

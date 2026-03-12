@@ -83,7 +83,7 @@ RW_EXTRACTION_PROMPT = """You are an expert SAT question parser. You will receiv
 
 RULES:
 - "passage" = the reading passage text (often on the LEFT side of the page). Format with HTML tags: <p>, <b>, <i>, <u>. Preserve all original formatting, line breaks within paragraphs, italicized titles, etc. If no passage exists, return empty string "".
-- NOTES QUESTIONS (Rhetorical Synthesis): If the question contains a list of bulleted notes (e.g., "While researching a topic, a student has taken the following notes:"), YOU MUST extract the entire bulleted list as a clean HTML `<ul>` with `<li>` tags for each bullet. DO NOT use plain dashes or stars. This is MANDATORY.
+- NOTES QUESTIONS (Rhetorical Synthesis): If the question contains a list of bulleted notes (e.g., "While researching a topic, a student has taken the following notes:"), YOU MUST extract the entire bulleted list as a clean HTML `<ul>` with `<li>` tags for each bullet. DO NOT use plain dashes or stars. You must insert spaces between sentences and ensure each note is fully isolated as an `<li>`. Do not jam sentences together into one paragraph. This is MANDATORY.
 - If a question references "Text 1" and "Text 2", the passage field must include BOTH texts, clearly labeled with <b>Text 1</b> and <b>Text 2</b>.
 - "prompt" = the question text ONLY (on the RIGHT side). HTML formatted with <p> tags. Do NOT include the answer choices in the prompt.
 - Options A, B, C, D = HTML formatted answer choices. Never include the letter prefix itself (no "A)", "B.", etc.).

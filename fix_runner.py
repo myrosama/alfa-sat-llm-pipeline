@@ -58,21 +58,21 @@ def fix_test(test_id: str, json_path: str, pdf_folder: str):
 
     total_gaps = sum(len(g) for g in report["gaps"].values())
     critic_candidates = 0
+    image_candidates = 0
+    IMAGE_KEYWORDS = ["graph", "table", "scatterplot", "diagram", "figure", "coordinate plane", "chart", "scatter plot"]
     for q in questions:
-        passage = (q.get("passage") or "").strip()
-        prompt = (q.get("prompt") or "").strip()
-        mod = q.get("module", 0)
-        if passage and passage[-1] not in ['.', '?', '!', '"', "'", '>']:
-            critic_candidates += 1
-        elif mod in [1, 2] and len(passage) > 0 and len(passage) < 40:
-            critic_candidates += 1
-        elif "notes" in prompt.lower() and "<ul>" not in passage.lower():
-            critic_candidates += 1
+        if q.get("imageUrl") or q.get("image_bbox"):
+            continue
+        text = (q.get("passage", "") + " " + q.get("prompt", "")).lower()
+        if any(kw in text for kw in IMAGE_KEYWORDS):
+            if "table" in text and "<tr>" in text:
+                continue
+            image_candidates += 1
 
-    est_calls = total_gaps * 3 + critic_candidates  # rough estimate
-    print(f"  📋 Gaps: {total_gaps} | Critic issues: {critic_candidates} | Est. API calls: ~{est_calls}")
+    est_calls = total_gaps * 3 + critic_candidates + image_candidates
+    print(f"  📋 Gaps: {total_gaps} | Critic: {critic_candidates} | Image: {image_candidates} | Est. API calls: ~{est_calls}")
 
-    if total_gaps == 0 and critic_candidates == 0:
+    if total_gaps == 0 and critic_candidates == 0 and image_candidates == 0:
         print(f"  ✅ {test_id} is already perfect! No fixes needed.")
         return True
 
@@ -145,19 +145,38 @@ def fix_test(test_id: str, json_path: str, pdf_folder: str):
 
 def _find_pdf_for_test(test_id: str, pdf_folder: str) -> str:
     """Try to find the PDF that matches a test_id."""
+    
+    # Strip everything from the test_id to ensure backward compatibility
+    tid = test_id.split("@")[0].strip()
+    for char in ["(", ")", "[", "]", ",", ".", "+", "=", "#"]:
+        tid = tid.replace(char, "")
+    tid = tid.replace("-", "_").replace(" ", "_")
+    while "__" in tid:
+        tid = tid.replace("__", "_")
+    tid = tid.strip("_")
+    
     pdfs = glob.glob(os.path.join(pdf_folder, "*.pdf"))
     for pdf_path in pdfs:
         name = Path(pdf_path).stem.lower()
         # Strip @watermark tag (e.g. "@EliteXSAT") — same as batch_runner
         name = name.split("@")[0].strip()
-        for char in ["(", ")", "[", "]", ",", ".", "-", "+", "=", "#"]:
+        for char in ["(", ")", "[", "]", ",", ".", "+", "=", "#"]:
             name = name.replace(char, "")
-        name = name.replace(" ", "_")
+        name = name.replace("-", "_").replace(" ", "_")
         while "__" in name:
             name = name.replace("__", "_")
         name = name.strip("_")
-        if name == test_id or name.replace("_", "") == test_id.replace("_", ""):
+        
+        if name == tid or name.replace("_", "") == tid.replace("_", ""):
             return pdf_path
+            
+    # Fallback brute force: check if tid is inside the raw filename
+    raw_tid = test_id.split("@")[0].replace("_", "").replace("-", "").lower()
+    for pdf_path in pdfs:
+        raw_name = Path(pdf_path).stem.split("@")[0].replace("_", "").replace("-", "").replace(" ", "").lower()
+        if raw_tid in raw_name or raw_name in raw_tid:
+            return pdf_path
+            
     return None
 
 
@@ -165,7 +184,7 @@ def main():
     parser = argparse.ArgumentParser(description="ALFA SAT Fix Runner (Pass 2+)")
     parser.add_argument("--output-dir", default="output",
                         help="Directory with saved JSON files from Pass 1")
-    parser.add_argument("--pdf-folder", default="../pdfs/",
+    parser.add_argument("--pdf-folder", default="./pdfs/",
                         help="Folder where original PDFs live")
     parser.add_argument("--resume", action="store_true",
                         help="Skip already-fixed tests")
