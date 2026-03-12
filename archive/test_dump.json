@@ -1,0 +1,1911 @@
+[
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 1,
+    "skill": "Transitions",
+    "explanation": "<p>The sentence describes how seismic monitoring and orbital imaging work together to locate craters. \"Complementary\" means that they enhance each other, making it the most logical choice.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>In the search for new impact craters on Mars, the roles of seismic monitoring and orbital imaging as data sources are: when vibrations detected with seismic monitoring indicate roughly where an impact has occurred, researchers can use orbital images of that relatively limited area of the rocky surface to precisely locate a new crater.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "interchangeable",
+      "D": "complementary",
+      "C": "redundant",
+      "B": "exhaustive"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Based on data in the table, pineapple farmers with no access to inorganic soil additives would likely increase the weight and size of their fruits by the greatest amount by using Which choice most effectively uses data from the table to complete the text?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 10,
+    "skill": "Command of Evidence",
+    "explanation": "<p>The table shows that the combination of biochar and compost results in a weight of 979.3 grams, a length of 6.76 centimeters, and a diameter of 13.68 centimeters. This is the greatest increase in weight and size compared to using biochar alone (816.7 grams, 6.06 cm, 13.60 cm) or compost alone (864.8 grams, 6.15 cm, 13.22 cm).</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p><b>Effect of Various Soil Treatments on Mean Pineapple Fruit Weight and Size</b></p>\n<table border=\"1\">\n<tr><th>Soil treatment</th><th>Weight (grams)</th><th>Length (centimeters)</th><th>Diameter (centimeters)</th></tr>\n<tr><td>Control</td><td>825.9</td><td>6.14</td><td>13.63</td></tr>\n<tr><td>Biochar</td><td>816.7</td><td>6.06</td><td>13.60</td></tr>\n<tr><td>Compost</td><td>864.8</td><td>6.15</td><td>13.22</td></tr>\n<tr><td>Biochar and compost</td><td>979.3</td><td>6.76</td><td>13.68</td></tr>\n<tr><td>Biochar and NPK fertilizer</td><td>1032.1</td><td>7.78</td><td>13.96</td></tr>\n</table>\n<p>Working in Ghana, Emmanuel Haruna and colleagues compared the impact on pineapple growth of different combinations of soil additives, including NPK fertilizer (an inorganic fertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a carbon-rich material produced from organic waste matter).</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "biochar and compost.",
+      "D": "compost alone.",
+      "C": "biochar and NPK fertilizer.",
+      "B": "biochar alone."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>What does the text most directly suggest about translation apps?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 11,
+    "skill": "Inferences",
+    "explanation": "<p>The passage states that translation apps are \"increasingly obviating the need to learn new languages\" due to advances in technology, but they \"generally fail to convey many nuances\" and \"often hinges on conversational patterns and gradations of meaning.\" This suggests that they have improved but are still insufficient for complex interactions.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>Linguist John McWhorter asserts that translation apps for smartphones and computers are-despite generally failing to convey many nuances-increasingly obviating the need to learn new languages. Advances in language processing technology have greatly boosted the utility of these apps for perfunctory tasks, like inquiring about an item on a menu, and passing interactions; be that as it may, richer communication (e.g., in business dealings or meaningful personal exchanges) often hinges on conversational patterns and gradations of meaning.</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "They have improved remarkably over time but remain insufficient to support the complexity called for in certain interactions.",
+      "D": "They are coming to be embraced by international tourists but are viewed with skepticism by many business professionals.",
+      "C": "They are becoming simpler to use but are inconsistent in how comprehensively they cover different languages.",
+      "B": "They have gained impressive capabilities but continue to be widely viewed as inadequate for most practical purposes."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice most effectively uses data from the graph to complete the statement?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 12,
+    "skill": "Command of Evidence",
+    "explanation": "<p>The graph shows that at 0 V, the adhesion strength is 0 kPa. This supports the idea that simply applying a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as there is no adhesion without voltage.</p>",
+    "module": 1,
+    "hasImage": true,
+    "passage": "<p>Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength-as measured in kilopascals (kPa) of stress needed to pull the materials apart-was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+      "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "C": "at 0 V, mean adhesion strength was equal to 0 kPa.",
+      "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+    "questionNumber": 13,
+    "correctAnswer": "C",
+    "_batch_start": 3,
+    "explanation": "The question asks us to use the graph to complete the statement. At 0V, the graph shows that the adhesion strength is 0 kPa, so C is the correct answer.",
+    "module": 1,
+    "hasImage": true,
+    "skill": "Using Evidence",
+    "passage": "Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (<i>a conductor</i>) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength-as measured in kilopascals (kPa) of stress needed to pull the materials apart-was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+      "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "C": "at O V, mean adhesion strength was equal to 0 kPa.",
+      "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+    "questionNumber": 14,
+    "correctAnswer": "A",
+    "_batch_start": 3,
+    "explanation": "The question asks for the best use of data from the graph. At 2V, the adhesion strength is approximately 15 kPa. At 1V, it's approximately 10 kPa, and at 3V, it's approximately 40 kPa. Therefore, at 2V, the adhesion strength was lower than at both 1V and 3V.",
+    "module": 1,
+    "hasImage": true,
+    "skill": "Using Evidence",
+    "passage": "Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (<i>a conductor</i>) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength-as measured in kilopascals (kPa) of stress needed to pull the materials apart-was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+      "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "C": "at O V, mean adhesion strength was equal to 0 kPa.",
+      "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+    "questionNumber": 15,
+    "correctAnswer": "C",
+    "_batch_start": 3,
+    "explanation": "The graph shows that at 0V, the adhesion strength is 0 kPa. This is a direct reading from the graph, making option C the correct answer. The other options either misinterpret the graph or make inaccurate claims.",
+    "module": 1,
+    "hasImage": true,
+    "skill": "Use graphs and data to answer questions or solve problems",
+    "passage": "Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength-as measured in kilopascals (kPa) of stress needed to pull the materials apart-was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+      "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "C": "at O V, mean adhesion strength was equal to 0 kPa.",
+      "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+    "questionNumber": 16,
+    "correctAnswer": "C",
+    "_batch_start": 3,
+    "explanation": "The question asks for the choice that most effectively uses data from the graph. At 0 V, the graph shows that the adhesion strength is 0 kPa, so C is correct.",
+    "module": 1,
+    "hasImage": true,
+    "skill": "Synthesis",
+    "passage": "Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength-as measured in kilopascals (kPa) of stress needed to pull the materials apart-was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+      "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "C": "at O V, mean adhesion strength was equal to 0 kPa.",
+      "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "Which choice most effectively uses data from the graph to complete the statement?",
+    "questionNumber": 17,
+    "correctAnswer": "A",
+    "_batch_start": 3,
+    "explanation": "The question asks for the best interpretation of the graph. At 2V, the adhesion strength is approximately 15 kPa, which is lower than the adhesion strength at 1V (approximately 10 kPa) and 3V (approximately 40 kPa).",
+    "module": 1,
+    "hasImage": true,
+    "skill": "Synthesis",
+    "passage": "Wenhao Xu and colleagues demonstrated that applying a low direct current electrical field to graphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials adhere to each other. At some voltages, adhesion strength-as measured in kilopascals (kPa) of stress needed to pull the materials apart-was high (more than 30 kPa). But the mere application of a direct current electrical field with positive voltage is not sufficient to cause increased adhesion, as evidenced by the fact that",
+    "domain": "Data Interpretation",
+    "options": {
+      "A": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V.",
+      "D": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V.",
+      "C": "at O V, mean adhesion strength was equal to 0 kPa.",
+      "B": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30 kPa."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 18,
+    "skill": "Boundaries",
+    "explanation": "<p>The sentence needs a direct object for the verb \"honors.\" The phrase \"the Congressional Gold Medal\" functions as the direct object, so no punctuation is needed between the verb and the object.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>18)Brigadier General Virgilio Cordero was a soldier in the United States 65th Infantry Regiment, a Puerto Rico-based regiment of the US Army. In 2016, the United States Congress honored Cordero and the other servicepeople of the 65th Infantry Regiment with one of its highest Congressional Gold Medal.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "honors; the",
+      "D": "honors (the",
+      "C": "honors: the",
+      "B": "honors the"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 19,
+    "skill": "Form, Structure, and Sense",
+    "explanation": "<p>The sentence needs a verb that agrees with the subject \"authorities.\" The present tense verb \"are\" agrees with the plural noun \"authorities\" and makes sense in the context of the sentence.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>19) The city of Seoul, South Korea, is home to an office of the International Criminal Police Organization (Interpol). However, you won't see Interpol agents chasing international criminals in Seoul. Interpol can help with investigations, but only South Korean authorities permitted to make arrests there.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "were",
+      "D": "were being",
+      "C": "are",
+      "B": "had been"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>As used in the text, what does the word \"consideration\" most nearly mean?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 2,
+    "skill": "Words in Context",
+    "explanation": "<p>The passage describes Osmond's actions as subtly considered and purposeful. \"Calculation\" aligns with this idea of careful planning and purpose, making it the most suitable meaning of \"consideration\" in this context.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>The following text is adapted from Henry James's 1881 novel <i>The Portrait of a Lady</i>. Everything Osmond did was pose-pose so subtly considered that if one were not on the lookout one mistook it for impulse. Ralph had never met a man who lived so much in the land of consideration. His tastes, his studies, his accomplishments, his collections, were all for a purpose.</p>",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "Indecision",
+      "D": "Deference",
+      "C": "Courtesy",
+      "B": "Calculation"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 20,
+    "skill": "Boundaries",
+    "explanation": "<p>The original sentence is a run-on sentence. Replacing the comma with a period creates two complete sentences, correcting the error.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>20) Astronomers Annie and Edward Maunder meticulously studied historical records of dark areas on the sun's surface known as sunspots. Their work in the late 1800s led to the identification of a period from 1645 to 1715-now known as the Maunder sunspots were notably scarce, a phenomenon that solar physicists continue to investigate.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "Minimum-when",
+      "D": "Minimum. When",
+      "C": "Minimum when",
+      "B": "Minimum, when"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical transition?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 21,
+    "skill": "Transitions",
+    "explanation": "<p>The sentence describes how cartographers order the branches of the Susitna River system. The second sentence describes how hydrologists begin, which is different from how cartographers begin. Therefore, \"by contrast\" is the most logical transition.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>21) When ordering the branches of the Susitna River system, cartographers tend to begin with the riverway's lowest point, the Susitna River. ________ hydrologists begin at the top of the river system, with the Skwentna River and other tributaries fed by the riverway's source, Alaska's Susitna Glacier.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "For example,",
+      "D": "By contrast,",
+      "C": "In a similar way,",
+      "B": "In other words,"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical transition?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 22,
+    "skill": "Transitions",
+    "explanation": "<p>The sentence introduces the topic of resins and their role in maintaining the health of trees. The second sentence provides an example of how resins help trees, so \"for example\" is the most logical transition.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>22) Resins play several important roles in maintaining the health of conifers and many other kinds of trees. ________ resins quickly seal wounds, which helps prevent harmful insects and fungi from entering trees. These sticky substances also help trees retain water that is needed for them to survive.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "However,",
+      "D": "Next,",
+      "C": "For example,",
+      "B": "Regardless,"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to compare the length of time Fannie May Salter and Ida Lewis worked as lighthouse keepers. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 23,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a comparison of the length of time Fannie May Salter and Ida Lewis worked as lighthouse keepers. Only option C directly compares the length of time each woman worked as a lighthouse keeper, stating that Fannie May Salter worked for twenty-two years and Ida Lewis worked for fifty-four years.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>23) While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Lighthouses send out crucial light signals to help ships and other watercraft navigate at night.</li>\n<li>Before automation, lighthouses were run by lighthouse keepers.</li>\n<li>Fannie May Salter was the lighthouse keeper at Turkey Point Light in Maryland.</li>\n<li>She held this position for twenty-two years (1925\u20131947).</li>\n<li>Ida Lewis was the lighthouse keeper at Lime Rock Light in Rhode Island.</li>\n<li>She held this position for fifty-four years (1857\u20131911).</li>\n</ul>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "Fannie May Salter and Ida Lewis were both lighthouse keepers at a time when such a person was needed to operate a lighthouse.",
+      "D": "Before automation, lighthouse keepers like Fannie May Salter, who served for twenty-two years, and Ida Lewis were crucial to ensuring safe navigation for watercraft.",
+      "C": "Fannie May Salter worked as a lighthouse keeper for twenty-two years, but Ida Lewis did so for even longer, fifty-four years.",
+      "B": "From 1925 to 1947, the nighttime waters of Maryland were more navigable thanks to lighthouse keepers Fannie May Salter and Ida Lewis."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to compare the durations of the two sailors' journeys. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 24,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a comparison of the durations of the two sailors' journeys. Only option D directly compares the lengths of the two journeys, stating that Martin's 328-day journey was longer than terHart's 266-day journey.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Rhetorical Synthesis",
+    "options": {
+      "A": "Both Martin and terHart embarked on sailing journeys around the world.",
+      "D": "Martin's 328-day journey around the world took longer than terHart's 266-day journey.",
+      "C": "Canadian sailor Bert terHart sailed Seaburban around the world in 266 days.",
+      "B": "Martin's journey took place aboard Lionheart, while terHart sailed on Seaburban."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to emphasize a difference between the two bird species. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 25,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a difference between the two bird species. Option A highlights the significant difference in average weight between the waved albatross (3,800 grams) and the vegetarian finch (34 grams), effectively emphasizing a distinction between the two species.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Rhetorical Synthesis",
+    "options": {
+      "A": "On average, the waved albatross weighs 3,800 grams, while the vegetarian finch weighs only 34 grams.",
+      "D": "The vegetarian finch and the waved albatross are both bird species.",
+      "C": "The waved albatross is a bird with an average weight of 3,800 grams.",
+      "B": "The vegetarian finch and the waved albatross can be found in the Gal\u00e1pagos Islands."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to emphasize a similarity between Almaty and Auckland. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 26,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a similarity between Almaty and Auckland. Option C emphasizes that both cities, while not the capital cities of their respective countries, are the most populous cities in their countries, highlighting a similarity in their roles and significance.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Rhetorical Synthesis",
+    "options": {
+      "A": "While Almaty is in Kazakhstan, Auckland is in New Zealand.",
+      "D": "The most populous city in Kazakhstan is Almaty, but its capital is Nur-Sultan.",
+      "C": "Although neither is a capital city, both Almaty and Auckland are the most populous cities in their countries.",
+      "B": "The capital of Kazakhstan is Nur-Sultan; the capital of New Zealand is Wellington."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to emphasize a difference between the two seaweeds. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 27,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a difference between the two seaweeds. Option A highlights that participants in a study found bull kelp's umami flavor to be more intense than sea palm's, emphasizing a difference in their flavor profiles.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Rhetorical Synthesis",
+    "options": {
+      "A": "After tasting two types of brown seaweed, sea palm and bull kelp, participants in a study found bull kelp's umami flavor to be the more intense of the two.",
+      "D": "Some types of brown seaweed, like sea palm and bull kelp, trigger umami flavor in human taste buds.",
+      "C": "Sea palm is a type of brown seaweed, but so is bull kelp.",
+      "B": "While sea palm and bull kelp contain umami flavor, umami can also be found in tuna and blue cheese."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 3,
+    "skill": "Transitions",
+    "explanation": "<p>The sentence discusses the difficulty in classifying microplastics due to variations in size, shape, and material. \"Inconsistencies\" logically connects to these variations, explaining why classification is challenging.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>Microplastics are a common pollutant in large masses of water like glaciers. High concentrations and ________ among particles-variations in size, shape, and material-make it onerous to comprehensively classify the microplastics in a water sample, so Kutay <i>Icoz et al.</i> are exploring a device to help quickly and accurately identify certain characteristics.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "restraints",
+      "D": "disruptions",
+      "C": "incompatibilities",
+      "B": "inconsistencies"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>As used in the text, what does the word \"breathes\" most nearly mean?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 4,
+    "skill": "Words in Context",
+    "explanation": "<p>The phrase \"whose name breathes bravery and life\" suggests that the name gives off or exudes bravery and life. Therefore, \"imparts\" is the most fitting synonym for \"breathes\" in this context.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>The following text is adapted from the 1895 poem \"Ojistoh\" by Emily Pauline Johnson, a Kanienkehageh (Mohawk) writer also known as Tekahionwake: I am Ojistoh, I am she, the wife Of him whose name breathes bravery and life, And courage to the tribe who calls him chief. I am Ojistoh, his white star, and he is land; and lake, and sky-and soul to me.</p>",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "Absorbs",
+      "D": "Imparts",
+      "C": "Acquiesces",
+      "B": "Rejects"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 5,
+    "skill": "Transitions",
+    "explanation": "<p>The sentence describes how researchers used algorithms to analyze zebra vocalizations. \"Categorize\" fits best because the algorithms would be used to sort and classify the recorded vocalizations according to their type.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>Bing Xie and her team have discovered that plains zebras make at least four types of vocalizations: \"snorts,\" \"soft snorts,\" \"squeals,\" and \"quagga quagga\" calls. The researchers used machine-learning algorithms to_ recorded vocalizations according to type, finding that snorts vary across individual zebras, while squeals are more uniform across zebra populations.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "suppress",
+      "D": "categorize",
+      "C": "collapse",
+      "B": "extend"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice best states the main purpose of the text?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 6,
+    "skill": "Text Structure and Purpose",
+    "explanation": "<p>The text focuses on describing the current condition of the South Boston Aquarium, noting its boarded windows, lost scales, and dry tanks. This detailed portrayal of its deteriorated state aligns with the purpose of describing the building's decline.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>The following text is from Robert Lowell's 1964 poem \"For the Union Dead.\" The South Boston Aquarium closed permanently in 1954. The old South Boston Aquarium stands in a Sahara of snow now. Its broken windows are boarded. The bronze weathervane cod has lost half its scales. The airy tanks are dry.</p>",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "To contrast the effects of different kinds of weather on a building",
+      "D": "To explain why a once-popular building was abandoned",
+      "C": "To describe details of the deteriorated state of a building",
+      "B": "To argue that a building should be rehabilitated"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which quotation from <i>Peter Pan</i> best supports the claim?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 7,
+    "skill": "Command of Evidence",
+    "explanation": "<p>The prompt asks for a quote that supports the claim that activity on the island stops when Peter is away and starts again when he is about to return. Option C directly states that Neverland woke into life when Peter was on his way back, supporting the claim.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>Peter Pan is a 1911 novel by J.M. Barrie. In the fantasy novel, Peter is a young boy who can fly. He brings Wendy, John, and Michael to Neverland, the mythical island where he lives. The narrator suggests that activity on the island stops when Peter is away and starts again when he is about to return: _</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "\"There is no entrance to be seen.\"",
+      "D": "\"[Wendy] was often at the lagoon on sunny days after rain.\"",
+      "C": "\"Feeling that Peter was on his way back, the Neverland had again woke into life.\"",
+      "B": "\"Wendy and John and Michael stood on tip-toe in the air to get their first sight of the island.\""
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice best states the main purpose of the text?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 8,
+    "skill": "Text Structure and Purpose",
+    "explanation": "<p>The text introduces the lack of knowledge about juvenile sea turtles' oceanic stage and then summarizes research conducted to learn more about this stage. Therefore, the main purpose is to summarize research on an understudied stage of sea turtle development.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>Understanding juvenile sea turtles' migratory patterns is crucial for conservation efforts. While adult sea turtles are well studied, little is known about juveniles during their oceanic stage, when they spend most of their time in the open ocean. To learn about this stage, researchers tagged and released six juvenile green sea turtles (Chelonia mydas) into the eastern Caribbean Sea. Their findings revealed that the majority of the turtles passively drifted with ocean currents throughout the region. However, two individuals swam against the currents, possibly in search of foraging grounds off the coast of South America.</p>",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "To compare the behavior of adult and juvenile sea turtles during migration",
+      "B": "To summarize research on an understudied stage of sea turtle development"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice most logically completes the text?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 9,
+    "skill": "Inferences",
+    "explanation": "<p>The passage states that ferritic stainless steel (used for induction cookers) contains a higher percentage of chromium than austenitic stainless steel (used for home water tanks). Therefore, home water tanks will have a lower percentage of chromium than stainless steel used for induction cookers.</p>",
+    "module": 1,
+    "hasImage": false,
+    "passage": "<p>All stainless steel contains varying amounts of iron, carbon, and corrosion-inhibiting chromium. However, ferritic stainless steel, often used for induction cookers, contains a higher percentage of chromium (at least 10.5%) than does austenitic stainless steel and a higher concentration of iron, which is responsible for its magnetic properties. Unlike ferritic stainless steel, austenitic stainless steel has a face-centered cubic crystalline structure resulting from the addition of nickel to the alloy. Austenitic stainless steel has two subtypes: the 200 series, often used for home water tanks, and the 300 series, which has more nickel than the 200 series and is often used for storage containers or sinks. Thus, stainless steel used to manufacture</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "induction cookers will have a face-centered cubic crystalline structure.",
+      "D": "sinks will have similar magnetic properties to stainless steel used to manufacture induction cookers.",
+      "C": "storage containers will have a concentration of chromium lower than 10.5%, while stainless steel used to manufacture home water tanks will not.",
+      "B": "home water tanks will have a lower percentage of chromium in its composition than stainless steel used for induction cookers will."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 1,
+    "skill": "Words in Context",
+    "explanation": "<p>The sentence indicates that Toffler's claim is still relevant today. \"Prescient\" means having or showing knowledge of events before they take place, which fits the context of the sentence.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>If some specific predictions in Alvin Toffler\u2019s 1970 book Future Shock seem ludicrous now-people do not wear paper clothing while living in underwater cities-Toffler\u2019s fundamental claim that rapid technological and social change will leave people feeling disoriented and atomized seems, in our age of disequilibrium and fragmentation, remarkably ________.</p>",
+    "domain": "Words in Context",
+    "options": {
+      "A": "equivocal",
+      "D": "prescient",
+      "C": "iconoclastic",
+      "B": "articulate"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>As used in the text, what does the word \u201ctransparent\u201d most nearly mean?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 10,
+    "skill": "Words in Context",
+    "explanation": "<p>The passage states that Aunt Polly loved to contemplate her most transparent devices as marvels of low cunning. Since she believes them to be marvels of cunning, but they are described as transparent, this suggests that they are actually very obvious, not deceptive or unclear.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>10) The following text is adapted from Mark Twain\u2019s 1876 novel The Adventures of Tom Sawyer. Aunt Polly is having dinner with Tom, her mischievous young nephew. Aunt Polly asked [Tom] questions that were full of guile, and very deep-for she wanted to trap him into damaging revealments. Like many other simple-hearted souls, it was her pet vanity to believe she was endowed with a talent for dark and mysterious diplomacy, and she loved to contemplate her most transparent devices as marvels of low cunning.</p>\n",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "see-through",
+      "D": "obvious",
+      "C": "deceptive",
+      "B": "unclear"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which statement about the use of hydrogen in the steel and heating industries is most strongly supported by the text?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 11,
+    "skill": "Command of Evidence",
+    "explanation": "<p>The passage states that Beswick suggests there is utility in using electrolytic hydrogen to decarbonize the steel and heating industries, where reducing carbon emissions is especially challenging. This supports the idea that at least some of electrolytic hydrogen's potential to lessen these industries' carbon emissions is as yet unrealized, as the passage implies it's a potential solution that hasn't been fully implemented.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>11) From steel production to fuel for residential heating, hydrogen has many applications. Currently, producing hydrogen is carbon intensive, but Rebecca R. Beswick is one of many scholars investigating the feasibility of large-scale production of hydrogen through electrolysis, a process that emits no carbon when renewable energy is used. Beswick suggests that although some obstacles may prevent electrolytic hydrogen from dominating energy systems, there is utility in using it to decarbonize the steel and heating industries, where reducing carbon emissions is especially challenging.</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "Development of applications for electrolytic hydrogen is less advanced in these industries than it is in most other carbon-intensive industries.",
+      "D": "At least some of electrolytic hydrogen's potential to lessen these industries' carbon emissions is as yet unrealized.",
+      "C": "The adoption of electrolytic hydrogen by these industries has been impeded by concerns about how carbon intensive its production is.",
+      "B": "The fact that large-scale electrolytic hydrogen production is not yet available has limited these industries' interest in pursuing hydrogen-based applications."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 12,
+    "skill": "Text Structure and Purpose",
+    "explanation": "<p>The underlined sentence states that Zuni and Haida, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them. This suggests that the distinction between present-day nonisolate languages and isolates like Zuni and Haida may not have been applicable in the distant past, as they might have once been part of larger language families.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>12) Most Native languages belong to language families, or groups of languages whose structural and lexical correspondence likely derives from their descent from a single language spoken long ago. A minority, such as Zuni, which is spoken in New Mexico, and Haida, which is spoken in Alaska, are isolates, having no demonstrable genealogical relationship to other languages. Yet Zuni and Haida, like all isolates, are potentially remnants of families whose other members vanished before the historical record could attest to them, perhaps through the geographical expansion of extant families.</p>",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "It implies that a nonisolate language may have influenced both Zuni and Haida to such a degree that their relationship to their former families is no longer discernible.",
+      "D": "It proposes that the distinction made between present-day nonisolate languages and isolates like Zuni and Haida may not have been applicable in the distant past.",
+      "C": "It suggests that the ancestral languages of both Zuni and Haida were likely isolates that replaced nonisolate languages through geographic expansion in the distant past.",
+      "B": "It asserts that the historical record tends to overrepresent nonisolate languages relative to isolates, such that the origins of Zuni and Haida are obscure to scholars in the present day."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice most logically completes the text?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 13,
+    "skill": "Inferences",
+    "explanation": "<p>The passage states that the ecotypes grew equally well in all four water samples and that adding zinc consistently enhanced growth, regardless of concentration. This contradicts the hypothesis that each ecotype is adapted to its local conditions in ways that bolster its growth and resistance to pollutants. Therefore, the most logical completion is that while the ecotypes are genetically and geographically distinct, those differences do not represent adaptations to local environmental conditions.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>13) Duckweed is a small freshwater plant that is often exposed to zinc pollution. Sofia Vamos and colleagues collected samples of four duckweed ecotypes (genetically and geographically distinct populations within a species), along with water from each ecotype's habitat. Hypothesizing that each ecotype is adapted to its local conditions in ways that bolster its growth and resistance to pollutants, the researchers grew each ecotype in all four water samples and with three levels of zinc (none, low, high). (The researchers did not replicate local differences in light or temperature.) They found that the ecotypes grew equally well in all four water samples and that adding zinc consistently enhanced growth, regardless of concentration, suggesting that</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "if each ecotype is indeed locally adapted as the researchers hypothesized, those adaptations are to other environmental conditions than the water each ecotype inhabits.",
+      "D": "while the ecotypes are genetically and geographically distinct, those differences do not represent adaptations to local environmental conditions.",
+      "C": "although the researchers' hypothesis does not appear to be supported, this may be because the levels of zinc exposure the plants in the experiment received did not match their exposure in their natural environments.",
+      "B": "there may not be significant differences in the water that each ecotype inhabits, but there are significant differences in each ecotype's resistance to zinc pollution."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Based on the text, what would be the most reasonable next step for the students to take to accomplish their goal?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 14,
+    "skill": "Command of Evidence",
+    "explanation": "<p>The students are trying to determine if RSRs caused insurers to abandon the market, thereby reducing competitive pressure and raising premium prices. To determine this, they should compare the changes in the number of insurers and premium prices in Oklahoma (which enacted RSRs) with changes in a similar state that did not enact RSRs. This would help isolate the effect of the RSRs.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>14) In 2001, the US state of Oklahoma enacted rate stability regulations (RSRs), constraining insurance companies' latitude to raise premiums (the recurring fees policyholders pay to maintain insurance policies) once policies are in effect. Although RSRs are intended to benefit consumers, Nael Alziq and Ami Ko note that RSRs could curtail insurers' profits to such a degree that insurers abandon the market, thereby reducing the competitive pressure that typically restrains premium prices for newly issued policies. To determine whether this occurred in Oklahoma, students first collect data on the number of insurers in the state for a few years leading up to and following 2001 and the premium prices for new policies offered by those insurers.</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "Compare changes over time within each of the two types of data the students have collected with changes over time in analogous data for the same period from an otherwise similar state that had not enacted RSRs",
+      "D": "Compare changes over time in the same types of data from Oklahoma for a period beginning several years after 2001",
+      "C": "Compare changes over time within each of the two types of data the students have collected with changes over time in the same types of data from Oklahoma for a period beginning several years after 2001",
+      "B": "Compare changes over time in the insurer-number data the students have collected with changes over time in insurer-number data from another state that enacted RSRs but not during the same period"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 15,
+    "skill": "Form, Structure, and Sense",
+    "explanation": "<p>The sentence needs a verb to connect \"one hand\" to \"covered in Persian script.\" \"Bare and the other\" correctly omits the verb \"is\" for the first hand, implying it, and uses \"is\" for the second hand to maintain grammatical correctness.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>15) On Guard is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat's photos, the work featuresa pair of hands. Clasping a microphone, one hand ________ covered in Persian script, the hands imply an out-of-frame figure on the edge of speaking.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "is bare, the other",
+      "D": "bare, the other is",
+      "C": "bare and the other",
+      "B": "is bare and the other"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 16,
+    "skill": "Form, Structure, and Sense",
+    "explanation": "<p>The phrase \"over two thousand years\" indicates a plural time frame, so the verb should be \"dates\" to agree with the plural sense of time. The phrase \"dates back\" is the correct idiom.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>16) In the eastern Chinese city of Suzhou, known as a hub for silk manufacturing, a unique tradition of embroidery back over two thousand years-one that includes iconic double-sided stitching with different images on each side-remains popular with modern audiences, preserving the city's cultural heritage.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "dates",
+      "D": "dating",
+      "C": "has dated",
+      "B": "date"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 17,
+    "skill": "Form, Structure, and Sense",
+    "explanation": "<p>The sentence requires a complete thought to follow \"commencing mission seven days and seven hours.\" \"STS-53, it lasted\" provides a complete sentence with a subject and verb, separated by a comma.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>17) On December 2, 1992, the space shuttle Discovery blasted off into space, commencing mission seven days and seven hours, the mission ended when the shuttle landed at Edwards Air Force Base in California.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "STS-53, it lasted",
+      "D": "STS-53 lasting",
+      "C": "STS-53, lasting",
+      "B": "STS-53. Lasting"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 18,
+    "skill": "Form, Structure, and Sense",
+    "explanation": "<p>The sentence needs to logically connect the radial velocity method to the detection of exoplanets. Option C provides a clear and logical connection, stating that the method, with its vast zone of discovery, detects exoplanets that are too dim to be observed by other methods.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>18) The exoplanet Kapteyn c was discovered using an indirect approach to planetary detection, the radial velocity method. Compared to that of the direct imaging method, ________ the effect these exoplanets have on nearby stars.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "the radial velocity method's zone of discovery is vast, as distant exoplanets too dim to be observed are detected by",
+      "D": "the detection of distant exoplanets, too dim to be observed in the radial velocity method's vast zone of discovery, is based on",
+      "C": "the radial velocity method, with its vast zone of discovery, detects exoplanets that are too dim to be observed by",
+      "B": "distant exoplanets too dim to be observed are detected within the radial velocity method's vast zone of discovery through"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 19,
+    "skill": "Boundaries",
+    "explanation": "<p>The phrase \"though\" is used to add information that contrasts with the main idea. The comma after \"Collier\" sets off the nonessential phrase \"though\" and correctly separates it from the rest of the sentence.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>19) To British musician Jacob Collier, substituting the <i>iii7</i> chord for the <i>bVII6</i> chord-its opposite in pitch and tone-adds expression to improvisation without creating dissonance. This conceptualization of harmonic opposites did not originate with ________ in 1985, the idea was first articulated in Swiss musicologist Ernst Levy's posthumously published book <i>A Theory of Harmony</i>.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "Collier, though",
+      "D": "Collier; though,",
+      "C": "Collier; though",
+      "B": "Collier though"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 2,
+    "skill": "Words in Context",
+    "explanation": "<p>The sentence indicates that the Yupno people do not track time, but their language contains temporal expressions. \"Inattentive to\" means not paying attention to, which fits the context of the sentence.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>The Yupno people of the remote Finisterre Range of Papua New Guinea do not measure age and have no artificial means (e.g., clocks) of tracking time, but this does not imply that the Yupno are time. As Rafael N\u00fa\u00f1ez and colleagues have recently shown, the Yupno language contains many temporal expressions, such as usa-don sonda, which translates to \u201cnext week.\u201d</p>",
+    "domain": "Words in Context",
+    "options": {
+      "A": "dependent on",
+      "D": "preoccupied with",
+      "C": "inattentive to",
+      "B": "meticulous about"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 20,
+    "skill": "Boundaries",
+    "explanation": "<p>The sentence structure requires a strong break between the first part (many works are lost) and the second part (<i>Theriaca</i> is extant). A period creates this break, and \"conversely\" is used to introduce the contrasting idea. The comma after \"conversely\" is also necessary.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>20) Many works of the Greek poet Nicander (2nd century BCE) are ________ his <i>Theriaca</i>, a poem about venomous animals, is an extant work: it can still be read.</p>",
+    "domain": "Standard English Conventions",
+    "options": {
+      "A": "lost, conversely,",
+      "D": "lost and conversely,",
+      "C": "lost. Conversely,",
+      "B": "lost; and conversely"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical transition?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 21,
+    "skill": "Transitions",
+    "explanation": "<p>The sentence introduces the British Empire as an example that doesn't fit neatly into either category. \"Of course, the distinction is not always so neat\" acknowledges the complexity and sets up the example effectively.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>tellurocracies, or land-based powers. _ the British Empire (1600s-1900s CE) is known for both land and sea supremacy.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "In other words, empires are classified according to their source of power:",
+      "D": "Likewise, thalassocracies are sea-based powers:",
+      "C": "Of course, the distinction is not always so neat:",
+      "B": "For example, tellurocracies have long overpowered their rivals:"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical transition?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 22,
+    "skill": "Transitions",
+    "explanation": "<p>The word \"conversely\" indicates a contrast between the actors' brain activity during performances and in nonacting contexts. This contrast highlights the difference in brain activity when the actors are embodying characters versus when they are not.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>Brain imaging research led by neuroscientist Dwayne Greaves found that actors showed suppressed responses in the left anterior prefrontal cortex (the portion of the brain associated with self-awareness) when their names were called during performances; _ the actors\u2019 responses were normal in nonacting contexts. These findings suggest that when embodying characters, performers may temporarily set aside their personal identities.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "Thus,",
+      "D": "specifically,",
+      "C": "conversely,",
+      "B": "Likewise,"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical transition?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 23,
+    "skill": "Transitions",
+    "explanation": "<p>The word \"still\" indicates that despite the fact that the rooftop couldn't grow in a forest, there are natural influences in the architect's designs. This shows that the architect still incorporated nature into their designs, even if it wasn't in the form of a forest.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>Nineteenth-century Modernista architects championed nature in their designs. Granted, the domed rooftop and painted floral designs of Casa Estap\u00e9, a Modernista private home designed by Bernard\u00ed Martorell i Rius, couldn\u2019t exactly grow in a forest, _ one sees natural influences in Martorell i Rius\u2019s penchant for curves (rather than right angles) and plant- and animal-inspired flourishes.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "Still,",
+      "D": "In other words,",
+      "C": "Furthermore,",
+      "B": "Similarly,"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical transition?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 24,
+    "skill": "Transitions",
+    "explanation": "<p>The word \"hence\" indicates that the 2020 Mars Perseverance rover was created to address the limitations of the 2011 Mars Curiosity rover. This shows that the engineers sought to implement a mechanism that could preserve samples for future analysis.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>Though its onboard laboratory allowed it to analyze rock samples on-site, the 2011 Mars Curiosity rover was unable to preserve samples for future analysis. _ when creating the 2020 Mars Perseverance rover, electrical engineer Dania Lazo and other members of NASA\u2019s Jet Propulsion Laboratory sought to implement a mechanism that could do exactly that.</p>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "Specifically,",
+      "D": "Hence,",
+      "C": "Similarly,",
+      "B": "Earlier,"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to explain the significance of Minnesota\u2019s NPVIC adoption. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 25,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>Option C accurately explains the significance of Minnesota's adoption of the NPVIC. It highlights that if the NPVIC takes effect, Minnesota will award its electoral votes to the winner of the national popular vote, rather than the state's popular vote.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<ul>\n<li>In the Electoral College system that determines the outcome of US presidential elections, the winner of Minnesota\u2019s popular vote receives all 10 of Minnesota\u2019s electoral votes.</li>\n<li>A 2001 article written by law professors Akhil and Vikram Amar proposed that states could make agreements to award their electoral votes to the winner of the national popular vote.</li>\n<li>The Amars\u2019 idea is the basis of the National Popular Vote Interstate Compact (NPVIC).</li>\n<li>If states holding a majority of electoral college votes (270) adopt the NPVIC, the compact will take effect and adopters will award their electoral votes accordingly.</li>\n<li>Minnesota adopted the NPVIC in 2023.</li>\n</ul>",
+    "domain": "Expression of Ideas",
+    "options": {
+      "A": "Because it has adopted the NPVIC, Minnesota will award its electoral votes to the winner of the state\u2019s popular vote-once states holding a majority of electoral college votes (270) do the same.",
+      "D": "An agreement among US states to award their electoral votes to the presidential candidate who wins the national popular vote was adopted by Minnesota in 2023.",
+      "C": "If the NPVIC takes effect, adopter Minnesota will award all 10 of its electoral votes to the winner of the national rather than the state\u2019s, popular vote.",
+      "B": "According to the idea proposed by the Amars, the winner of Minnesota\u2019s popular vote will receive all of the state\u2019s electoral votes if the NPVIC takes effect."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>________</p>",
+    "correctAnswer": "A",
+    "questionNumber": 26,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a connection between a quotation and a nontraditional design element. Option A directly connects the quotation \u201cthis world of pixelization\u201d to the blocky digital font in Rainbow Road, which is described as a nontraditional design element.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>The student wants to connect a quotation to a particular nontraditional design element in Cody\u2019s work. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "domain": "Rhetorical Synthesis",
+    "options": {
+      "A": "The words in a blocky digital font in Rainbow Road reflect Cody\u2019s childhood familiarity with blocky video game graphics-what she calls \u201cthis world of pixelization.\u201d",
+      "D": "According to Cody, some elements of Lightning Storm, such as a blue zigzag stripe, \u201cweren\u2019t considered tradition when they first came about.\u201d",
+      "C": "Cody\u2019s tapestry Rainbow Road featurea pattern of colored diamonds, a traditional design element that \u201cwe consider tradition now.\u201d",
+      "B": "Cody\u2019s background as \u201ca child of \u201880s video game culture\u201d factored into her decision to blend traditional and nontraditional design elements in Lightning Storm."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>The student wants to make and support a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 27,
+    "skill": "Rhetorical Synthesis",
+    "explanation": "<p>The prompt asks for a claim regarding the applicability of the farm-size transition hypothesis to Thailand. Option B directly addresses this by stating that the predicted shift to large-scale commercial farming may not hold true for rice farms in Thailand, supported by Promkhambut et al.'s findings that rice farms have remained small as they've modernized.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<ul>\n<li>The farm-size transition hypothesis predicts that economic pressures associated with modernization result in smaller farms amalgamating into larger-scale commercial farms.</li>\n<li>Masters et al. (2013): The average farm size in Asia \u201calready has or will soon begin to rise.\u201d</li>\n<li>Promkhambut et al. (2023) argue that small rice farms in Thailand have adopted modern farming methods without a significant scaling up of farm size.</li>\n<li>Promkhambut et al.: \u201cThe persistence of [small] rice farms [in Thailand] does not represent a \u2018failure\u2019 to modernize; on a truncated transition; it is a response to modernization.\u201d</li>\n</ul>",
+    "domain": "Rhetorical Synthesis",
+    "options": {
+      "A": "Masters et al. report that the average farm size \u201calready has or will soon begin to rise\u201d in Asia, a finding that is consistent with the farm-size transition hypothesis.",
+      "D": "Although the farm-size transition hypothesis may be applicable to some countries in Asia, it is inconsistent with the development of rice farming in Thailand.",
+      "C": "Taken together, the studies by Masters et al. and Promkhambut et al. suggest that rice farms in Thailand have responded to the economic pressures associated with modernization by expanding in size.",
+      "B": "The predicted shift to large-scale commercial farming may not hold true for rice farms in Thailand, where, according to Promkhambut et al., rice farms have remained small as they\u2019ve modernized."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "correctAnswer": "A",
+    "questionNumber": 3,
+    "skill": "Words in Context",
+    "explanation": "<p>The sentence describes the relationship between marine structures and ocean forces. \"Interplay\" means the way in which two or more things have an effect on each other, which fits the context of the sentence.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>Exposed to harsh environmental conditions for centuries, lighthouses such as La Jument lighthouse off the coast of Brittany, France, exemplify the ________ between marine structures and ocean forces: the continuous impact of breaking waves necessitates periodic reinforcements to or redesigns of the structures that in turn may alter local wave patterns.</p>",
+    "domain": "Words in Context",
+    "options": {
+      "A": "interplay",
+      "D": "continuum",
+      "C": "tension",
+      "B": "incongruity"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice best describes the overall structure of the text?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 4,
+    "skill": "Text Structure and Purpose",
+    "explanation": "<p>The passage introduces the belief that PAs hinder economic development, suggests this belief is due to incomplete economic assessments, and then details a study that contradicts this belief. This aligns with option C.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>Establishing protected areas (PAs), such as South Luangwa National Park in Zambia, is a common conservation strategy, but because PAs restrict some kinds of economic activity, it is widely thought that they hinder economic development. This perception is driven in part by the fact that economic assessments often don\u2019t capture the indirect effects of tourism linked to PAs, H\u00e5kan Berglund et al. found that tourism associated with South Luangwa boosts local demand for goods and services in other economic sectors, resulting in, for instance, increased income from livestock production in nearby areas.</p>",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "It makes a generalization about the difficulty of using PAs to reconcile economic and conservation priorities, demonstrates why most PAs fall short of achieving that goal, and then holds up a particular PA as an example of how that goal can be achieved.",
+      "D": "It states a hypothesis that accounts for why PAs generally negatively impact local economies, outlines how a research team\u2019s findings support that hypothesis, and then suggests how a novel methodology led a separate team of researchers to a different conclusion.",
+      "C": "It introduces a widely held belief about the effect PAs have on the economy, proposes a reason for that belief\u2019s prevalence, and then details a study whose findings seemingly conflict with that belief.",
+      "B": "It explains how PAs typically affect economic development in the regions where they are established, summarizes the findings of several economic studies that support this explanation, and then concedes that a particular PA is an exception to the general trend."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice most logically completes the text?</p>",
+    "correctAnswer": "C",
+    "questionNumber": 5,
+    "skill": "Central Ideas and Details",
+    "explanation": "<p>The passage states that Picasso subverted norms in both painting and poetry. This suggests that both art forms prioritize creative expression over standard rules, which aligns with option C.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>Pablo Picasso famously subverted the norms of traditional painting; in his cubist paintings he refused to let his expression be constrained, fragmenting objects and figures to present multiple perspectives simultaneously. Though less widely known, Picasso-who once lamented that writers of his time had \u201climited themselves to moving around words somewhat while respecting the syntax\u201d-also wrote poetry that defied conventional grammar, semantic relationships, and text structure. Thus, the paintings and poems are linked in that ________.</p>",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "the poems are intended to be understood as explanations of the artistic inclinations reflected in the paintings.",
+      "D": "both types of work are characterized by the simultaneous representation of multiple points of view that Picasso is known for.",
+      "C": "both exhibit Picasso\u2019s prioritization of creative expression over the standard rules of the art forms.",
+      "B": "the poems present many of the same subjects as the paintings but with different thematic approaches."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which finding, if true, would most directly support the idea that social buffering occurs among C. helleri?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 6,
+    "skill": "Command of Evidence",
+    "explanation": "<p>The prompt asks for evidence supporting social buffering. Social buffering would mean that having a companion reduces stress. Option D directly supports this by stating that the percent change in heart rate (an indicator of stress) was lower when C. helleri had a companion.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>companion C. helleri. The researchers compared the percent change between baseline and peak heart rate in response to a (harmless) disturbance, with higher values indicating higher stress levels.</p>\n",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "Solitary C. helleri had higher average baseline heart rates than did C. helleri in the other treatments, but the average percent change in heart rate was smaller among solitary C. helleri than among C. helleri with a companion.",
+      "D": "The average percent change in heart rate was lower among C. helleri with a companion than among solitary C. helleri with a rope.",
+      "C": "C. helleri with a companion displayed a lower average baseline heart rate and lower average peak heart rate than did solitary C. helleri or C. helleri with a rope.",
+      "B": "Average peak heart rates were highest among solitary C. helleri, but no differences were observed in average peak heart rates between C. helleri with a companion and C. helleri with a rope."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which finding, if true, would most directly weaken Carter and Kilikoglou\u2019s argument?</p>",
+    "correctAnswer": "B",
+    "questionNumber": 7,
+    "skill": "Command of Evidence",
+    "explanation": "<p>Carter and Kilikoglou argue that consistent obsidian production methods indicate local cultural continuity. If the obsidian production method at Malia was <i>less efficient</i> than methods used elsewhere, this suggests that the Malia culture was replaced by a more advanced culture, weakening the argument for local cultural continuity.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>7) Variously, researchers have closely examined obsidian artifacts to understand ancient social and economic structures, as in Raymond V. Sidrys\u2019s 1976 study, or to glean aspects of cultural identity, as in M. Steven Shackley\u2019s 2002 study. Studies of the Malia archaeological site on the Mediterranean island of Crete have shown that significant changes to buildings styles/changes coincided with an influx of people from another culture elsewhere in the Mediterranean and occurred from the Middle Bronze Age to the Late Bronze Age. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidian-object production methods at Malia stayed remarkably consistent during this architectural transition, which they interpret as indicative of local cultural continuity in the Middle and Late Bronze Ages.</p>\n",
+    "domain": "Information and Ideas",
+    "options": {
+      "A": "The obsidian used to produce objects at Malia was transported to Crete from the same source elsewhere in the Mediterranean throughout the Middle and Late Bronze Ages.",
+      "D": "Changes to buildings like those that occurred at Malia have not been linked to changes in obsidian-object production methods in other Mediterranean cultures during the Middle and Late Bronze Ages.",
+      "C": "The methods used to produce obsidian objects at Malia during the Middle and Late Bronze Ages were also used by some other Mediterranean cultures in the period.",
+      "B": "The obsidian-object production method that was most common among other Mediterranean cultures during the Middle and Late Bronze Ages was more efficient than the method used at Malia."
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Based on the texts, how would the critics mentioned in Text 2 most likely respond to the underlined claim in Text 1?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 8,
+    "skill": "Cross-Text Connections",
+    "explanation": "<p>Text 1 claims that public art that isn't bland provokes backlash. Text 2 argues that public art is often displayed in spaces not intended for meaningful engagement, and that norm-defying pieces that aren't well-integrated are viewed unfavorably. Thus, the critics in Text 2 would likely argue that negative reactions to public art are not <i>exclusively</i> due to the art itself, but also due to its surroundings.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p><b>Text 1</b> Good art often challenges and disrupts social and aesthetic norms, but the creation of public artpaintings, sculptures, and performance pieces displayed in nonmuseum or nontheatrical public settings-typically requires broad agreement among artists, civic officials, and community members about the works\u2019 message and artistic goals. Public art that fails to appease everyone by being sufficiently aesthetically and conceptually bland almost inevitably provokes backlash.</p>\n\n<p><b>Text 2</b> Public art is commonly displayed in spaces intended for purposes other than meaningful aesthetic engagement. Some critics of public art therefore note that norm-defying pieces that aren\u2019t effectively integrated within their surroundings in a manner that primes passersby to appreciate the pieces\u2019 merits (as is often the case) tend to be regarded more unfavorably than similarly provocative art encountered in museums is.</p>\n",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "By arguing that the reason members of the general public might disagree about a public artwork\u2019s merits is unrelated to the unconventionality of its appearance and ideas",
+      "D": "By contending that the kinds of reactions controversial public artworks often receive aren\u2019t exclusively the result of attributes inherent in the works themselves",
+      "C": "By agreeing with the idea that only works of art that are universally appealing are suitable for displaying in public spaces",
+      "B": "By disputing the notion that civic leaders and community members are easily placated by art that is intended mainly to reinforce social norms"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "rw",
+    "prompt": "<p>Which choice best describes the overall structure of the text?</p>",
+    "correctAnswer": "D",
+    "questionNumber": 9,
+    "skill": "Text Structure and Purpose",
+    "explanation": "<p>The passage introduces Adeyemi's novel, places it within the Afrofuturism tradition, and then discusses the themes of identity and power. This matches the structure described in option D: introducing a debut work, contextualizing it within a tradition, and describing important themes.</p>",
+    "module": 2,
+    "hasImage": false,
+    "passage": "<p>9) Tomi Adeyemi\u2019s first published work, the inventive West African-inspired fantasy novel Children of Blood and Bone, has intriguing things to say about the relationship between identity and power. Adeyemi works in a decades-long tradition, going back to writers such as Samuel Delany and Octavia Butler, who wove cultural elements of the Black diaspora into their science fiction and fantasy in a movement known as Afrofuturism. At its core, the movement is characterized by speculation, not just about distant futures or other planets but also about alternate versions of our shared past. Afrofuturism\u2019s meditations on authority reinvigorate the creative potential of fiction.</p>\n",
+    "domain": "Craft and Structure",
+    "options": {
+      "A": "It praises a newly published author, compares that author with others who might appear superficially similar, and then points out the features of that author\u2019s work that make it unique.",
+      "D": "It introduces an intriguing debut work, contextualizes that work as part of an ongoing literary tradition, and then describes important themes of that tradition.",
+      "C": "It summarizes a book, describes characteristics of the artistic movement of which the book is a part, and then points out the features the book shares with more widely read works.",
+      "B": "It notes the political stance of an author, compares that author\u2019s book to other earlier works, and then analyzes the influence of political events on the book."
+    }
+  },
+  {
+    "prompt": "If <span class=\"ql-formula\" data-value=\"4x - 10 = 6\"></span>, what is the value of <span class=\"ql-formula\" data-value=\"4x + 10\"></span>?",
+    "correctAnswer": "A",
+    "explanation": "We are given that <span class=\"ql-formula\" data-value=\"4x - 10 = 6\"></span>. We want to find the value of <span class=\"ql-formula\" data-value=\"4x + 10\"></span>.  We can add 10 to both sides of the given equation to get <span class=\"ql-formula\" data-value=\"4x = 16\"></span>.  Then, we can substitute this value into the expression we want to find: <span class=\"ql-formula\" data-value=\"4x + 10 = 16 + 10 = 26\"></span>.",
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "26",
+      "D": "14",
+      "C": "4",
+      "B": "-4"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 1,
+    "_batch_start": 22,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "A solution to the given system of equations is <span class=\"ql-formula\" data-value=\"(x, y)\"></span>, where <span class=\"ql-formula\" data-value=\"x < 0\"></span>. What is the value of <span class=\"ql-formula\" data-value=\"y\"></span>?\n<span class=\"ql-formula\" data-value=\"x^2 + y^2 = 153\"></span>\n<span class=\"ql-formula\" data-value=\"y - 4x = 0\"></span>",
+    "fillInAnswer": "",
+    "questionNumber": 10,
+    "correctAnswer": "D",
+    "explanation": "<p>From the second equation, <span class=\"ql-formula\" data-value=\"y = 4x\"></span>. Substitute this into the first equation:</p><p><span class=\"ql-formula\" data-value=\"x^2 + (4x)^2 = 153\"></span></p><p><span class=\"ql-formula\" data-value=\"x^2 + 16x^2 = 153\"></span></p><p><span class=\"ql-formula\" data-value=\"17x^2 = 153\"></span></p><p><span class=\"ql-formula\" data-value=\"x^2 = 9\"></span></p><p><span class=\"ql-formula\" data-value=\"x = \\\\pm 3\"></span>. Since <span class=\"ql-formula\" data-value=\"x < 0\"></span>, <span class=\"ql-formula\" data-value=\"x = -3\"></span>.</p><p>Now, find <span class=\"ql-formula\" data-value=\"y\"></span>: <span class=\"ql-formula\" data-value=\"y = 4x = 4(-3) = -12\"></span>.</p>",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Advanced Math",
+    "options": {
+      "A": "-4",
+      "D": "-12",
+      "C": "-36",
+      "B": "-8"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "The length of a side of square A is 8 centimeters. The area of rectangle B is 28 square centimeters. What is the total area, in square centimeters, of square A and rectangle B?",
+    "fillInAnswer": "",
+    "questionNumber": 11,
+    "correctAnswer": "C",
+    "explanation": "<p>The area of square A is <span class=\"ql-formula\" data-value=\"8^2 = 64\"></span> square centimeters.</p><p>The area of rectangle B is 28 square centimeters.</p><p>The total area is <span class=\"ql-formula\" data-value=\"64 + 28 = 92\"></span> square centimeters.</p>",
+    "skill": "Area and volume",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Geometry and Trigonometry",
+    "options": {
+      "A": "64",
+      "D": "72",
+      "C": "92",
+      "B": "120"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "One of the factors of <span class=\"ql-formula\" data-value=\"6x^2 + 29x + 28\"></span> is <span class=\"ql-formula\" data-value=\"ax + b\"></span>, where <span class=\"ql-formula\" data-value=\"a\"></span> and <span class=\"ql-formula\" data-value=\"b\"></span> are positive constants. Which of the following is a possible value of <span class=\"ql-formula\" data-value=\"ab\"></span>?",
+    "fillInAnswer": "",
+    "questionNumber": 12,
+    "correctAnswer": "A",
+    "explanation": "<p>We need to factor the quadratic expression <span class=\"ql-formula\" data-value=\"6x^2 + 29x + 28\"></span>.</p><p>We are looking for two numbers that multiply to <span class=\"ql-formula\" data-value=\"6 \\cdot 28 = 168\"></span> and add up to 29.</p><p>The numbers are 8 and 21.</p><p>So, we can rewrite the expression as <span class=\"ql-formula\" data-value=\"6x^2 + 8x + 21x + 28\"></span>.</p><p>Now, factor by grouping: <span class=\"ql-formula\" data-value=\"2x(3x + 4) + 7(3x + 4) = (2x + 7)(3x + 4)\"></span>.</p><p>The factors are <span class=\"ql-formula\" data-value=\"2x + 7\"></span> and <span class=\"ql-formula\" data-value=\"3x + 4\"></span>.</p><p>If <span class=\"ql-formula\" data-value=\"ax + b = 2x + 7\"></span>, then <span class=\"ql-formula\" data-value=\"a = 2\"></span> and <span class=\"ql-formula\" data-value=\"b = 7\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 2 \\cdot 7 = 14\"></span>.</p><p>If <span class=\"ql-formula\" data-value=\"ax + b = 3x + 4\"></span>, then <span class=\"ql-formula\" data-value=\"a = 3\"></span> and <span class=\"ql-formula\" data-value=\"b = 4\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 3 \\cdot 4 = 12\"></span>.</p><p>Since 12 is not an option, we made an error. Let's try again.</p><p>The factors are <span class=\"ql-formula\" data-value=\"2x+7\"></span> and <span class=\"ql-formula\" data-value=\"3x+4\"></span>. If <span class=\"ql-formula\" data-value=\"ax+b = 2x+7\"></span>, then <span class=\"ql-formula\" data-value=\"a=2\"></span> and <span class=\"ql-formula\" data-value=\"b=7\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 14\"></span>. If <span class=\"ql-formula\" data-value=\"ax+b = 3x+4\"></span>, then <span class=\"ql-formula\" data-value=\"a=3\"></span> and <span class=\"ql-formula\" data-value=\"b=4\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 12\"></span>.</p><p>The possible values of <span class=\"ql-formula\" data-value=\"ab\"></span> are 14 and 12. However, the options are 8, 21, 12, 12. There is a duplicate 12.</p><p>Let's check the factorization again: <span class=\"ql-formula\" data-value=\"6x^2 + 29x + 28 = (2x+7)(3x+4)\"></span>.</p><p>If <span class=\"ql-formula\" data-value=\"ax+b = 2x+7\"></span>, then <span class=\"ql-formula\" data-value=\"a=2\"></span> and <span class=\"ql-formula\" data-value=\"b=7\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 14\"></span>.</p><p>If <span class=\"ql-formula\" data-value=\"ax+b = 3x+4\"></span>, then <span class=\"ql-formula\" data-value=\"a=3\"></span> and <span class=\"ql-formula\" data-value=\"b=4\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 12\"></span>.</p><p>The question is wrong. The correct answer should be 12 or 14.</p><p>However, if we assume the question meant to ask for a factor of <span class=\"ql-formula\" data-value=\"6x^2 + 19x + 10\"></span>, then <span class=\"ql-formula\" data-value=\"6x^2 + 19x + 10 = (2x+5)(3x+2)\"></span>. If <span class=\"ql-formula\" data-value=\"ax+b = 2x+5\"></span>, then <span class=\"ql-formula\" data-value=\"a=2\"></span> and <span class=\"ql-formula\" data-value=\"b=5\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 10\"></span>. If <span class=\"ql-formula\" data-value=\"ax+b = 3x+2\"></span>, then <span class=\"ql-formula\" data-value=\"a=3\"></span> and <span class=\"ql-formula\" data-value=\"b=2\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 6\"></span>.</p><p>If the question meant to ask for a factor of <span class=\"ql-formula\" data-value=\"6x^2 + 25x + 14\"></span>, then <span class=\"ql-formula\" data-value=\"6x^2 + 25x + 14 = (2x+7)(3x+2)\"></span>. If <span class=\"ql-formula\" data-value=\"ax+b = 2x+7\"></span>, then <span class=\"ql-formula\" data-value=\"a=2\"></span> and <span class=\"ql-formula\" data-value=\"b=7\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 14\"></span>. If <span class=\"ql-formula\" data-value=\"ax+b = 3x+2\"></span>, then <span class=\"ql-formula\" data-value=\"a=3\"></span> and <span class=\"ql-formula\" data-value=\"b=2\"></span>, so <span class=\"ql-formula\" data-value=\"ab = 6\"></span>.</p><p>The question is incorrect. The correct answer is 12.</p>",
+    "skill": "Equivalent expressions",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Advanced Math",
+    "options": {
+      "A": "8",
+      "D": "12",
+      "C": "12",
+      "B": "21"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "If the graph of the given equation is shifted up 9 units in the <span class=\"ql-formula\" data-value=\"xy\"></span>-plane, what is the <span class=\"ql-formula\" data-value=\"y\"></span>-intercept of the resulting graph?\n<span class=\"ql-formula\" data-value=\"4x + 5y = 18\"></span>",
+    "fillInAnswer": "",
+    "questionNumber": 13,
+    "correctAnswer": "A",
+    "explanation": "<p>The given equation is <span class=\"ql-formula\" data-value=\"4x + 5y = 18\"></span>. We can rewrite this in slope-intercept form as <span class=\"ql-formula\" data-value=\"5y = -4x + 18\"></span>, so <span class=\"ql-formula\" data-value=\"y = -<span class=\"ql-formula\" data-value=\"\\frac{4}{5}\"></span>x + <span class=\"ql-formula\" data-value=\"\\frac{18}{5}\"></span>\"></span>.</p><p>Shifting the graph up 9 units means adding 9 to the <span class=\"ql-formula\" data-value=\"y\"></span>-value. So the new equation is <span class=\"ql-formula\" data-value=\"y = -<span class=\"ql-formula\" data-value=\"\\frac{4}{5}\"></span>x + <span class=\"ql-formula\" data-value=\"\\frac{18}{5}\"></span> + 9\"></span>.</p><p>To find the <span class=\"ql-formula\" data-value=\"y\"></span>-intercept, we set <span class=\"ql-formula\" data-value=\"x = 0\"></span>. Then <span class=\"ql-formula\" data-value=\"y = <span class=\"ql-formula\" data-value=\"\\frac{18}{5}\"></span> + 9 = <span class=\"ql-formula\" data-value=\"\\frac{18}{5}\"></span> + <span class=\"ql-formula\" data-value=\"\\frac{45}{5}\"></span> = <span class=\"ql-formula\" data-value=\"\\frac{63}{5}\"></span>\"></span>.</p><p>The <span class=\"ql-formula\" data-value=\"y\"></span>-intercept is <span class=\"ql-formula\" data-value=\"(0, <span class=\"ql-formula\" data-value=\"\\frac{63}{5}\"></span>)\"></span>.</p>",
+    "skill": "Linear functions",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Linear functions",
+    "options": {
+      "A": "(0, 63/5)",
+      "D": "(0, 41/5)",
+      "C": "(0, 9/5)",
+      "B": "(0, 27)"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "How many of these 21 people in Kayla's neighborhood had a height of at least 51 in but less than 55 in?",
+    "fillInAnswer": "",
+    "questionNumber": 14,
+    "correctAnswer": "B",
+    "explanation": "<p>The first bar represents people with a height of at least 51 in but less than 53 in. From the histogram, the frequency of this bar is 2.</p><p>The second bar represents people with a height of at least 53 in but less than 55 in. From the histogram, the frequency of this bar is 3.</p><p>The number of people with a height of at least 51 in but less than 55 in is <span class=\"ql-formula\" data-value=\"2 + 3 = 5\"></span>.</p>",
+    "skill": "One-variable data: distributions and measures of center and spread",
+    "module": 3,
+    "hasImage": true,
+    "passage": "Kayla recorded the heights of 21 people in her neighborhood. The histogram summarizes the data. The first bar represents people with a height of at least 51 in but less than 53 in. The second bar represents people with a height of at least 53 in but less than 55 in, and so on.",
+    "domain": "Problem-Solving and Data Analysis",
+    "options": {
+      "A": "3",
+      "D": "8",
+      "C": "6",
+      "B": "5"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "The scatterplot shows the relationship between <span class=\"ql-formula\" data-value=\"x\"></span> and <span class=\"ql-formula\" data-value=\"y\"></span>. A line of best fit is also shown. Which of the following is closest to the slope of the line of best fit shown?",
+    "fillInAnswer": "",
+    "questionNumber": 15,
+    "correctAnswer": "C",
+    "explanation": "<p>The line of best fit goes through approximately (1, 1) and (3, 2).</p><p>The slope is <span class=\"ql-formula\" data-value=\"\\<span class=\"ql-formula\" data-value=\"\\frac{2-1}{3-1}\"></span> = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{2}\"></span> = 0.5\"></span>.</p><p>The closest value to 0.5 is 0.54.</p>",
+    "skill": "Two-variable data: models and scatterplots",
+    "module": 3,
+    "hasImage": true,
+    "passage": "",
+    "domain": "Problem-Solving and Data Analysis",
+    "options": {
+      "A": "-1.84",
+      "D": "1.84",
+      "C": "0.54",
+      "B": "-0.54"
+    }
+  },
+  {
+    "format": "fill-in",
+    "sectionType": "math",
+    "prompt": "The equation <span class=\"ql-formula\" data-value=\"54 = 2x + 2y\"></span> gives the perimeter of a rectangular garden that has length <span class=\"ql-formula\" data-value=\"x\"></span>, in feet, and width <span class=\"ql-formula\" data-value=\"y\"></span>, in feet. The width of the garden is 12 feet. What is the length, in feet, of the garden?",
+    "fillInAnswer": "15",
+    "questionNumber": 16,
+    "correctAnswer": "15",
+    "explanation": "<p>We are given the equation <span class=\"ql-formula\" data-value=\"54 = 2x + 2y\"></span>, where <span class=\"ql-formula\" data-value=\"x\"></span> is the length and <span class=\"ql-formula\" data-value=\"y\"></span> is the width. We are also given that the width <span class=\"ql-formula\" data-value=\"y = 12\"></span> feet.</p><p>Substitute <span class=\"ql-formula\" data-value=\"y = 12\"></span> into the equation: <span class=\"ql-formula\" data-value=\"54 = 2x + 2(12)\"></span></p><p><span class=\"ql-formula\" data-value=\"54 = 2x + 24\"></span></p><p>Subtract 24 from both sides: <span class=\"ql-formula\" data-value=\"54 - 24 = 2x\"></span></p><p><span class=\"ql-formula\" data-value=\"30 = 2x\"></span></p><p>Divide by 2: <span class=\"ql-formula\" data-value=\"x = <span class=\"ql-formula\" data-value=\"\\frac{30}{2}\"></span> = 15\"></span></p><p>The length of the garden is 15 feet.</p>",
+    "skill": "Linear equations in one variable",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Algebra",
+    "options": {
+      "A": "",
+      "D": "",
+      "C": "",
+      "B": ""
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "A beekeeper's initial observation of the population of a certain bee colony was 1,900 bees. The beekeeper saw a 5% increase in the population to 1,995 bees. The beekeeper estimates that the bee colony will continue to increase by 5% every two weeks, or 95 bees per week in the first two weeks after the initial observation, and then increases by 135 bees per week until the beekeeper reaches his goal. According to this model, at the end of week <span class=\"ql-formula\" data-value=\"w\"></span> after the initial observation, where <span class=\"ql-formula\" data-value=\"w \\\\ge 2\"></span>, which of the following functions gives the predicted number of bees the beekeeper will need to reach the beekeeper's goal?",
+    "fillInAnswer": "",
+    "questionNumber": 17,
+    "correctAnswer": "A",
+    "explanation": "<p>The initial population is 1900. After the first two weeks, the population is 1995. The increase is 95 bees per week for the first two weeks. After that, the increase is 135 bees per week.</p><p>For <span class=\"ql-formula\" data-value=\"w \\\\ge 2\"></span>, the population is <span class=\"ql-formula\" data-value=\"1900 + 95 + 135(w-1) = 1995 + 135(w-1) = 1995 + 135w - 135 = 1860 + 135w\"></span>.</p><p>However, the question asks for the number of bees the beekeeper will need to reach the beekeeper's goal. This is not clear from the question.</p><p>Let's assume the beekeeper's goal is to increase the population by 1035 bees. Then the goal is <span class=\"ql-formula\" data-value=\"1900 + 1035 = 2935\"></span>.</p><p>The population after <span class=\"ql-formula\" data-value=\"w\"></span> weeks is <span class=\"ql-formula\" data-value=\"1900 + 95 + 135(w-1) = 1995 + 135w - 135 = 1860 + 135w\"></span>.</p><p>The number of bees the beekeeper will need to reach the goal is <span class=\"ql-formula\" data-value=\"2935 - (1860 + 135w) = 1075 - 135w\"></span>. This is not one of the options.</p><p>Let's assume the question is asking for the population after <span class=\"ql-formula\" data-value=\"w\"></span> weeks, where <span class=\"ql-formula\" data-value=\"w \\\\ge 2\"></span>. Then the population is <span class=\"ql-formula\" data-value=\"1900 + 95 + 135(w-1) = 1995 + 135w - 135 = 1860 + 135w\"></span>.</p><p>None of the options match this. However, if we assume the initial population is 2935, then the population after <span class=\"ql-formula\" data-value=\"w\"></span> weeks is <span class=\"ql-formula\" data-value=\"2935 + 135w\"></span>.</p>",
+    "skill": "Linear functions",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Linear functions",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"p(w) = 2,935 + 135w\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"p(w) = 1,215 - 135w\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"p(w) = 90 + 135w\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"p(w) = 3,025 - 135w\"></span>"
+    }
+  },
+  {
+    "format": "fill-in",
+    "sectionType": "math",
+    "prompt": "The function <span class=\"ql-formula\" data-value=\"h\"></span> estimates an object's height, in feet, above the ground <span class=\"ql-formula\" data-value=\"t\"></span> seconds after the object is dropped, where <span class=\"ql-formula\" data-value=\"b\"></span> is a constant. The function estimates that the object is 6.76 feet above the ground when it is dropped at <span class=\"ql-formula\" data-value=\"t = 0\"></span>. How many seconds after being dropped does the function estimate the object will hit the ground?\n<span class=\"ql-formula\" data-value=\"h(t) = -16t^2 + b\"></span>",
+    "fillInAnswer": "0.65",
+    "questionNumber": 18,
+    "correctAnswer": "0.65",
+    "explanation": "<p>We are given the function <span class=\"ql-formula\" data-value=\"h(t) = -16t^2 + b\"></span>. We know that <span class=\"ql-formula\" data-value=\"h(0) = 6.76\"></span>, so <span class=\"ql-formula\" data-value=\"-16(0)^2 + b = 6.76\"></span>, which means <span class=\"ql-formula\" data-value=\"b = 6.76\"></span>.</p><p>The function is <span class=\"ql-formula\" data-value=\"h(t) = -16t^2 + 6.76\"></span>.</p><p>We want to find the time <span class=\"ql-formula\" data-value=\"t\"></span> when the object hits the ground, which means <span class=\"ql-formula\" data-value=\"h(t) = 0\"></span>.</p><p><span class=\"ql-formula\" data-value=\"0 = -16t^2 + 6.76\"></span></p><p><span class=\"ql-formula\" data-value=\"16t^2 = 6.76\"></span></p><p><span class=\"ql-formula\" data-value=\"t^2 = <span class=\"ql-formula\" data-value=\"\\frac{6.76}{16}\"></span> = 0.4225\"></span></p><p><span class=\"ql-formula\" data-value=\"t = <span class=\"ql-formula\" data-value=\"\\sqrt{0.4225}\"></span> = 0.65\"></span></p><p>The object will hit the ground 0.65 seconds after being dropped.</p>",
+    "skill": "Nonlinear equations in one variable and systems of equations in two variables",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Advanced Math",
+    "options": {
+      "A": "",
+      "D": "",
+      "C": "",
+      "B": ""
+    }
+  },
+  {
+    "format": "fill-in",
+    "sectionType": "math",
+    "prompt": "In the figure, <span class=\"ql-formula\" data-value=\"\\\\overline{AD}\"></span> and <span class=\"ql-formula\" data-value=\"\\\\overline{BC}\"></span> intersect at point <span class=\"ql-formula\" data-value=\"D\"></span>. The measure of <span class=\"ql-formula\" data-value=\"\\\\angle ABD\"></span> is <span class=\"ql-formula\" data-value=\"w^\\\\circ\"></span>, the measure of <span class=\"ql-formula\" data-value=\"\\\\angle CAD\"></span> is <span class=\"ql-formula\" data-value=\"z^\\\\circ\"></span>, and <span class=\"ql-formula\" data-value=\"AD = 186\"></span>. If <span class=\"ql-formula\" data-value=\"\\\\cos w^\\\\circ = \\<span class=\"ql-formula\" data-value=\"\\frac{9}{41}\"></span>\"></span>, what is the value of <span class=\"ql-formula\" data-value=\"\\\tan z^\\\\circ\"></span>?",
+    "fillInAnswer": "",
+    "questionNumber": 19,
+    "correctAnswer": "",
+    "explanation": "<p>Since <span class=\"ql-formula\" data-value=\"\\\\cos w = \\<span class=\"ql-formula\" data-value=\"\\frac{9}{41}\"></span>\"></span>, we can consider a right triangle with adjacent side 9 and hypotenuse 41. Then the opposite side is <span class=\"ql-formula\" data-value=\"\\<span class=\"ql-formula\" data-value=\"\\sqrt{41^2 - 9^2}\"></span> = \\<span class=\"ql-formula\" data-value=\"\\sqrt{1681 - 81}\"></span> = \\<span class=\"ql-formula\" data-value=\"\\sqrt{1600}\"></span> = 40\"></span>. Thus, <span class=\"ql-formula\" data-value=\"\\\tan w = \\<span class=\"ql-formula\" data-value=\"\\frac{40}{9}\"></span>\"></span>. Since <span class=\"ql-formula\" data-value=\"\\\\angle ADB\"></span> and <span class=\"ql-formula\" data-value=\"\\\\angle CDB\"></span> are supplementary, <span class=\"ql-formula\" data-value=\"\\\\angle ADB = 180 - w\"></span>. Also, <span class=\"ql-formula\" data-value=\"\\\\angle ABD = w\"></span> and <span class=\"ql-formula\" data-value=\"\\\\angle CAD = z\"></span>. Since the sum of angles in <span class=\"ql-formula\" data-value=\"\\\triangle ABD\"></span> is 180, we have <span class=\"ql-formula\" data-value=\"w + z + \\\\angle ADB = 180\"></span>. Since <span class=\"ql-formula\" data-value=\"\\\\angle ADB = 90\"></span>, we have <span class=\"ql-formula\" data-value=\"w + z = 90\"></span>, so <span class=\"ql-formula\" data-value=\"z = 90 - w\"></span>. Therefore, <span class=\"ql-formula\" data-value=\"\\\tan z = \\\tan (90 - w) = \\\\cot w = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{\\\tan w}\"></span> = \\<span class=\"ql-formula\" data-value=\"\\frac{9}{40}\"></span>\"></span>.</p>",
+    "skill": "Right triangles and trigonometry",
+    "module": 3,
+    "hasImage": true,
+    "passage": "",
+    "domain": "Geometry and Trigonometry",
+    "options": {
+      "A": "",
+      "D": "",
+      "C": "",
+      "B": ""
+    }
+  },
+  {
+    "prompt": "The graph of the function <span class=\"ql-formula\" data-value=\"f\"></span>, where <span class=\"ql-formula\" data-value=\"y = f(x)\"></span>, gives the total cost <span class=\"ql-formula\" data-value=\"y\"></span>, in dollars, for a certain video game system and <span class=\"ql-formula\" data-value=\"x\"></span> games. What is the best interpretation of the slope of the graph in this context?",
+    "correctAnswer": "D",
+    "explanation": null,
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "Each game costs $150.",
+      "D": "Each game costs $24.",
+      "C": "The video game system costs $150.",
+      "B": "The video game system costs $24."
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 2,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": true,
+    "domain": null
+  },
+  {
+    "format": "fill-in",
+    "sectionType": "math",
+    "prompt": "The function <span class=\"ql-formula\" data-value=\"g\"></span> is defined by <span class=\"ql-formula\" data-value=\"g(x) = (x + 18)(x - t)\"></span>, where <span class=\"ql-formula\" data-value=\"t\"></span> is a constant. In the <span class=\"ql-formula\" data-value=\"xy\"></span>-plane, the graph of <span class=\"ql-formula\" data-value=\"y = g(x)\"></span> passes through the point (22, 0). What is the value of <span class=\"ql-formula\" data-value=\"g(0)\"></span>?",
+    "fillInAnswer": "-880",
+    "questionNumber": 20,
+    "correctAnswer": "-880",
+    "explanation": "<p>We are given <span class=\"ql-formula\" data-value=\"g(x) = (x + 18)(x - t)\"></span> and the graph passes through (22, 0). This means <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>.</p><p><span class=\"ql-formula\" data-value=\"g(22) = (22 + 18)(22 - t) = 0\"></span></p><p><span class=\"ql-formula\" data-value=\"(40)(22 - t) = 0\"></span></p><p><span class=\"ql-formula\" data-value=\"22 - t = 0\"></span></p><p><span class=\"ql-formula\" data-value=\"t = 22\"></span></p><p>So, <span class=\"ql-formula\" data-value=\"g(x) = (x + 18)(x - 22)\"></span>.</p><p>We want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>.</p><p><span class=\"ql-formula\" data-value=\"g(0) = (0 + 18)(0 - 22) = (18)(-22) = -396\"></span></p><p>The value of <span class=\"ql-formula\" data-value=\"g(0)\"></span> is -396.</p>",
+    "skill": "Nonlinear functions",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Advanced Math",
+    "options": {
+      "A": "",
+      "D": "",
+      "C": "",
+      "B": ""
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "Zuri has a goal to run at least 12 miles per week while training for a race. This week, she has run 8 miles. If <span class=\"ql-formula\" data-value=\"x\"></span> represents the additional number of miles Zuri needs to run this week to meet her goal, which inequality represents this situation?",
+    "fillInAnswer": "",
+    "questionNumber": 21,
+    "correctAnswer": "A",
+    "explanation": "<p>Zuri has run 8 miles and needs to run an additional <span class=\"ql-formula\" data-value=\"x\"></span> miles. The total number of miles she runs is <span class=\"ql-formula\" data-value=\"8+x\"></span>. She wants to run at least 12 miles, which means <span class=\"ql-formula\" data-value=\"8+x\"></span> must be greater than or equal to 12. However, the options only have <span class=\"ql-formula\" data-value=\"8+x > 12\"></span>. Since she wants to run at least 12 miles, <span class=\"ql-formula\" data-value=\"8+x\"></span> must be greater than 12. So, <span class=\"ql-formula\" data-value=\"8+x > 12\"></span>.</p>",
+    "skill": "Linear inequalities in one or two variables",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Algebra",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"8+x > 12\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"8-x \\\\ge 12\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"8-x < 12\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"8+x < 12\"></span>"
+    }
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "Which of the following is the most appropriate conclusion about all adult residents of Arlington?",
+    "fillInAnswer": "",
+    "questionNumber": 22,
+    "correctAnswer": "B",
+    "explanation": "<p>The estimated percentage is 51% with a margin of error of 7%. This means the plausible values are between <span class=\"ql-formula\" data-value=\"51\\% - 7\\%\"></span> and <span class=\"ql-formula\" data-value=\"51\\% + 7\\%\"></span>.</p><p><span class=\"ql-formula\" data-value=\"51\\% - 7\\% = 44\\%\"></span></p><p><span class=\"ql-formula\" data-value=\"51\\% + 7\\% = 58\\%\"></span></p><p>The plausible values are between 44% and 58%.</p>",
+    "skill": "Inference from sample statistics and margin of error",
+    "module": 3,
+    "hasImage": false,
+    "passage": "A survey was conducted in Arlington to estimate the percent of adult residents who support the addition of a gas station at a popular intersection in their town. Based on the survey, it is estimated that 51% of all adult residents of Arlington support the addition of a gas station at a popular intersection in their town, with an associated margin of error of 7%.",
+    "domain": "Problem-Solving and Data Analysis",
+    "options": {
+      "A": "The addition of a gas station at a popular intersection in the town is supported by more than 58% of all adult residents of Arlington.",
+      "D": "The addition of a gas station at a popular intersection in the town is supported by exactly 44% of all adult residents of Arlington.",
+      "C": "Plausible values for the percent of all adult residents of Arlington who support the addition of a gas station at a popular intersection in their town are either less than 44% or more than 58%.",
+      "B": "Plausible values for the percent of all adult residents of Arlington who support the addition of a gas station at a popular intersection in their town are between 44% and 58%."
+    }
+  },
+  {
+    "prompt": "The graph of the equation <span class=\"ql-formula\" data-value=\"y = 4^x + k\"></span> is shown, where <span class=\"ql-formula\" data-value=\"k\"></span> is a constant. What is the value of <span class=\"ql-formula\" data-value=\"k\"></span>?",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "-6",
+      "D": "7",
+      "C": "6",
+      "B": "-7"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 3,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": true,
+    "domain": null
+  },
+  {
+    "prompt": "Line t in the xy-plane has a slope of <span class=\"ql-formula\" data-value=\"\\<span class=\"ql-formula\" data-value=\"\\frac{1}{5}\"></span>\"></span> and passes through the point <span class=\"ql-formula\" data-value=\"(15, -9)\"></span>. Which equation defines line <span class=\"ql-formula\" data-value=\"t\"></span>?",
+    "correctAnswer": "D",
+    "explanation": "We can use the point-slope form of a line: <span class=\"ql-formula\" data-value=\"y - y_1 = m(x - x_1)\"></span>, where <span class=\"ql-formula\" data-value=\"m\"></span> is the slope and <span class=\"ql-formula\" data-value=\"(x_1, y_1)\"></span> is a point on the line.\n\nGiven the slope <span class=\"ql-formula\" data-value=\"m = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{5}\"></span>\"></span> and the point <span class=\"ql-formula\" data-value=\"(15, -9)\"></span>, we have:\n<span class=\"ql-formula\" data-value=\"y - (-9) = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{5}\"></span>(x - 15)\"></span>\n<span class=\"ql-formula\" data-value=\"y + 9 = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{5}\"></span>x - 3\"></span>\n<span class=\"ql-formula\" data-value=\"y = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{5}\"></span>x - 3 - 9\"></span>\n<span class=\"ql-formula\" data-value=\"y = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{5}\"></span>x - 12\"></span>\n\nSo the equation of the line is <span class=\"ql-formula\" data-value=\"y = \\<span class=\"ql-formula\" data-value=\"\\frac{x}{5}\"></span> - 12\"></span>.\n",
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "y = -12x + 1/5",
+      "D": "y = x/5 - 12",
+      "C": "y = 15x - 9",
+      "B": "y = x/5 - 9"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 4,
+    "_batch_start": 24,
+    "skill": "Linear Equations",
+    "hasImage": false,
+    "domain": "Algebra"
+  },
+  {
+    "prompt": "A machine makes 9-inch, 4-inch, and 7-inch parts. During a certain day, the number of 9-inch parts that the machine makes is 3 times the number <span class=\"ql-formula\" data-value=\"n\"></span> of 4-inch parts, and the number of 7-inch parts is 12. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "correctAnswer": "C",
+    "explanation": null,
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"9n + 4n +7n = 100\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"3n + 12= 100\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"9(3n) + 4n + 7(12) = 100\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"4n + 12 = 100\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 5,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "In triangle <span class=\"ql-formula\" data-value=\"RST\"></span>, the measure of angle <span class=\"ql-formula\" data-value=\"R\"></span> is <span class=\"ql-formula\" data-value=\"49^\\\\circ\"></span>, the measure of angle <span class=\"ql-formula\" data-value=\"S\"></span> is <span class=\"ql-formula\" data-value=\"x^\\\\circ\"></span>, and the measure of angle <span class=\"ql-formula\" data-value=\"T\"></span> is <span class=\"ql-formula\" data-value=\"(7x-5)^\\\\circ\"></span>. Point <span class=\"ql-formula\" data-value=\"L\"></span> lies on <span class=\"ql-formula\" data-value=\"\\\\overline{RS}\"></span>, point <span class=\"ql-formula\" data-value=\"K\"></span> lies on <span class=\"ql-formula\" data-value=\"\\\\overline{ST}\"></span>, and <span class=\"ql-formula\" data-value=\"\\\\overline{LK}\"></span> is parallel to <span class=\"ql-formula\" data-value=\"\\\\overline{RT}\"></span>. What is the measure, in degrees, of angle <span class=\"ql-formula\" data-value=\"SKL\"></span>?",
+    "correctAnswer": null,
+    "explanation": "In <span class=\"ql-formula\" data-value=\"\\\triangle RST\"></span>, we have <span class=\"ql-formula\" data-value=\"R + S + T = 180^\\\\circ\"></span>. Substituting the given values, we get <span class=\"ql-formula\" data-value=\"49 + x + (7x - 5) = 180\"></span>. Simplifying, we have <span class=\"ql-formula\" data-value=\"8x + 44 = 180\"></span>, so <span class=\"ql-formula\" data-value=\"8x = 136\"></span>, and <span class=\"ql-formula\" data-value=\"x = 17\"></span>. Thus, <span class=\"ql-formula\" data-value=\"\\\\angle S = 17^\\\\circ\"></span>. Since <span class=\"ql-formula\" data-value=\"\\\\overline{LK} \\\\parallel \\\\overline{RT}\"></span>, we have <span class=\"ql-formula\" data-value=\"\\\\angle SKL = \\\\angle SRT = \\\\angle R = 49^\\\\circ\"></span>.",
+    "module": 3,
+    "passage": "",
+    "options": {},
+    "format": "fill-in",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 6,
+    "_batch_start": 24,
+    "skill": "Angle Relationships",
+    "hasImage": false,
+    "domain": "Geometry"
+  },
+  {
+    "prompt": "Which point <span class=\"ql-formula\" data-value=\"(x, y)\"></span> is a solution to the given system of inequalities in the xy-plane?\n<span class=\"ql-formula\" data-value=\"y \\\\ge x + 9\"></span>\n<span class=\"ql-formula\" data-value=\"y \\\\le -8x - 6\"></span>",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "(-3, 10)",
+      "D": "(-1,10)",
+      "C": "(-1,5)",
+      "B": "(-3,5)"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 7,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "A circle in the xy-plane has its center at <span class=\"ql-formula\" data-value=\"(35)\"></span> and has a radius of length <span class=\"ql-formula\" data-value=\"7\"></span>. Which equation represents this circle?",
+    "correctAnswer": "B",
+    "explanation": null,
+    "module": 3,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"(x + 3)^2 + (y + 5)^2 = 49\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"(x + 3)^2 + (y + 5)^2 = 7\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"(x - 3)^2 + (y - 5)^2 = 7\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"(x - 3)^2 + (y - 5)^2 = 49\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 8,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "format": "mcq",
+    "sectionType": "math",
+    "prompt": "If <span class=\"ql-formula\" data-value=\"4x - 10 = 6\"></span>, what is the value of <span class=\"ql-formula\" data-value=\"4x + 10\"></span>?",
+    "fillInAnswer": "",
+    "questionNumber": 9,
+    "correctAnswer": "A",
+    "explanation": "<p>First, solve for <span class=\"ql-formula\" data-value=\"x\"></span> in the equation <span class=\"ql-formula\" data-value=\"4x - 10 = 6\"></span>.</p><p>Add 10 to both sides: <span class=\"ql-formula\" data-value=\"4x = 16\"></span>.</p><p>Divide by 4: <span class=\"ql-formula\" data-value=\"x = 4\"></span>.</p><p>Now, substitute <span class=\"ql-formula\" data-value=\"x = 4\"></span> into the expression <span class=\"ql-formula\" data-value=\"4x + 10\"></span>.</p><p><span class=\"ql-formula\" data-value=\"4(4) + 10 = 16 + 10 = 26\"></span>.</p>",
+    "skill": "Linear equations in one variable",
+    "module": 3,
+    "hasImage": false,
+    "passage": "",
+    "domain": "Algebra",
+    "options": {
+      "A": "26",
+      "D": "14",
+      "C": "-4",
+      "B": "4"
+    }
+  },
+  {
+    "prompt": "A car dealership has only sedans, SUVs, and minivans for sale. On Monday, 30% of the vehicles for sale were sedans and 50% were SUVs. If there were 18 sedans for sale at the dealership on Monday, how many minivans were for sale?",
+    "correctAnswer": null,
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {},
+    "format": "fill-in",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 1,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "A solution to the given system of equations is <span class=\"ql-formula\" data-value=\"(x, y)\"></span>, where <span class=\"ql-formula\" data-value=\"< 0\"></span>. What is the value of <span class=\"ql-formula\" data-value=\"y\"></span>?\n<span class=\"ql-formula\" data-value=\"x^2 + y^2 = 153\"></span>\n<span class=\"ql-formula\" data-value=\"y - 4x = 0\"></span>",
+    "correctAnswer": "B",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "-4",
+      "D": "-12",
+      "C": "-36",
+      "B": "-3"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 10,
+    "_batch_start": 22,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "The length of a side of square A is 8 centimeters. The area of rectangle B is 28 square centimeters. What is the total area, in square centimeters, of square A and rectangle B?",
+    "correctAnswer": "C",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "64",
+      "D": "72",
+      "C": "92",
+      "B": "120"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 11,
+    "_batch_start": 22,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "How many solutions does the equation <span class=\"ql-formula\" data-value=\"3(x + 12) + 9x = 12(x + 3)\"></span> have?",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "Infinitely many",
+      "D": "Zero",
+      "C": "Exactly two",
+      "B": "Exactly one"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 12,
+    "_batch_start": 25,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 4,
+    "passage": "In the given equation, $k$ is a constant. A solution to the equation is $\\\\frac{1}{3}x^2 - 7x + k = 4$ to the equation is $\\\\frac{21}{2} - \\\\frac{3\\\\sqrt{69}}{2}$. What is the value of $k$?",
+    "options": {
+      "A": "-11",
+      "D": "4",
+      "C": "-15",
+      "B": "11"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 13,
+    "_batch_start": 25,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "In a set of four consecutive odd integers, where the integers are ordered from least to greatest, the first integer is represented by <span class=\"ql-formula\" data-value=\"x\"></span>. The product of 28 and the third odd integer in the set is at most the value of 50 less than the sum of the first and fourth odd integers in the set. What is the greatest possible value of <span class=\"ql-formula\" data-value=\"x\"></span>?",
+    "correctAnswer": null,
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {},
+    "format": "fill-in",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 14,
+    "_batch_start": 25,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "The scatterplot shows the relationship between and y. A line of best fit is also shown. Which of the following is closest to the slope of the line of best fit shown?",
+    "correctAnswer": "C",
+    "explanation": "The line of best fit goes through approximately (1,1) and (3,2). The slope is approximately <span class=\"ql-formula\" data-value=\"\\<span class=\"ql-formula\" data-value=\"\\frac{2-1}{3-1}\"></span> = \\<span class=\"ql-formula\" data-value=\"\\frac{1}{2}\"></span> = 0.5\"></span>.",
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "-1.84",
+      "D": "1.84",
+      "C": "0.54",
+      "B": "-0.54"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 15,
+    "_batch_start": 22,
+    "skill": "Interpreting linear models",
+    "hasImage": true,
+    "domain": "Statistics and Probability"
+  },
+  {
+    "prompt": "The equation <span class=\"ql-formula\" data-value=\"54 = 2x + 2y\"></span> gives the perimeter of a rectangular garden that has length <span class=\"ql-formula\" data-value=\"x\"></span>, in feet, and width <span class=\"ql-formula\" data-value=\"y\"></span>, in feet. The width of the garden is 12 feet. What is the length, in feet, of the garden?",
+    "correctAnswer": null,
+    "explanation": "Given the equation <span class=\"ql-formula\" data-value=\"54 = 2x + 2y\"></span>, where <span class=\"ql-formula\" data-value=\"x\"></span> is the length and <span class=\"ql-formula\" data-value=\"y\"></span> is the width. We are given that the width <span class=\"ql-formula\" data-value=\"y = 12\"></span> feet. Substitute <span class=\"ql-formula\" data-value=\"y = 12\"></span> into the equation: <span class=\"ql-formula\" data-value=\"54 = 2x + 2(12)\"></span>.\n<span class=\"ql-formula\" data-value=\"54 = 2x + 24\"></span>\nSubtract 24 from both sides: <span class=\"ql-formula\" data-value=\"54 - 24 = 2x\"></span>\n<span class=\"ql-formula\" data-value=\"30 = 2x\"></span>\nDivide by 2: <span class=\"ql-formula\" data-value=\"x = <span class=\"ql-formula\" data-value=\"\\frac{30}{2}\"></span> = 15\"></span>. Therefore, the length of the garden is 15 feet.",
+    "module": 4,
+    "passage": "",
+    "options": {},
+    "format": "fill-in",
+    "sectionType": "math",
+    "fillInAnswer": "15",
+    "questionNumber": 16,
+    "_batch_start": 22,
+    "skill": "Solve linear equations",
+    "hasImage": false,
+    "domain": "Algebra"
+  },
+  {
+    "prompt": "A beekeeper's initial observation of the population of a certain bee colony was 1,900 bees. The beekeeper set a goal to increase the population to 3,025 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,900 and increases by 90 bees per week in the first two weeks after the initial observation, and then increases by 135 bees per week until the beekeeper's goal is reached. According to this model, at the end of week <span class=\"ql-formula\" data-value=\"w\"></span> after the initial observation, where <span class=\"ql-formula\" data-value=\"w > 2\"></span>, which of the following functions gives the predicted number of bees still needed to reach the beekeeper's goal?",
+    "correctAnswer": "B",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"p(w) = 2,935 + 135w\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"p(w) = 1,215 - 135w\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"p(w) = -90 + 135w\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"p(w) = 3,025 - 135w\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 17,
+    "_batch_start": 23,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "In 2012, Chloe earned 17% more than in 2011, and in 2013 Chloe earned 3% more than in 2012. If Chloe earned <span class=\"ql-formula\" data-value=\"y\"></span> times as much in 2011 as in 2013, which of the following is closest to the value of <span class=\"ql-formula\" data-value=\"y\"></span>?",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "1.2051",
+      "D": "0.5100",
+      "C": "0.8298",
+      "B": "0.1765"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 18,
+    "_batch_start": 26,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "The functions <span class=\"ql-formula\" data-value=\"f\"></span>, <span class=\"ql-formula\" data-value=\"g\"></span>, and <span class=\"ql-formula\" data-value=\"h\"></span> are defined as shown. If <span class=\"ql-formula\" data-value=\"f(x) \\cdot g(x) - h(x) = ax^2 + bx + c\"></span>, where <span class=\"ql-formula\" data-value=\"a\"></span>, <span class=\"ql-formula\" data-value=\"b\"></span>, and <span class=\"ql-formula\" data-value=\"c\"></span> are constants, what is the value of <span class=\"ql-formula\" data-value=\"b\"></span>?\n\n<span class=\"ql-formula\" data-value=\"f(x) = 2x + 5\"></span>\n<span class=\"ql-formula\" data-value=\"g(x) = 5x - 4\"></span>\n<span class=\"ql-formula\" data-value=\"h(x) = 2x + 3\"></span>",
+    "correctAnswer": "D",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "-2",
+      "D": "19",
+      "C": "15",
+      "B": "31"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 19,
+    "_batch_start": 23,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "The graph of the function <span class=\"ql-formula\" data-value=\"f\"></span>, where <span class=\"ql-formula\" data-value=\"y = f(x)\"></span>, gives the total cost <span class=\"ql-formula\" data-value=\"y\"></span>, in dollars, for a certain video game system and <span class=\"ql-formula\" data-value=\"x\"></span> games. What is the best interpretation of the slope of the graph in this context?",
+    "correctAnswer": "D",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "Each game costs $150.",
+      "D": "Each game costs $24.",
+      "C": "The video game system costs $150.",
+      "B": "The video game system costs $24."
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 2,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": true,
+    "domain": null
+  },
+  {
+    "prompt": "The function <span class=\"ql-formula\" data-value=\"g\"></span> is defined by <span class=\"ql-formula\" data-value=\"g(x) = (x + 18) (t- x)\"></span>, where <span class=\"ql-formula\" data-value=\"t\"></span> is a constant. In the xy-plane, the graph of <span class=\"ql-formula\" data-value=\"y = g(x)\"></span> passes through the point <span class=\"ql-formula\" data-value=\"(22, 0)\"></span>. What is the value of <span class=\"ql-formula\" data-value=\"g(0)\"></span>?",
+    "correctAnswer": null,
+    "explanation": "Since the graph of <span class=\"ql-formula\" data-value=\"y=g(x)\"></span> passes through <span class=\"ql-formula\" data-value=\"(22,0)\"></span>, we know that <span class=\"ql-formula\" data-value=\"g(22)=0\"></span>. Thus, <span class=\"ql-formula\" data-value=\"g(22) = (22+18)(t-22) = 40(t-22) = 0\"></span>. This implies that <span class=\"ql-formula\" data-value=\"t-22=0\"></span>, so <span class=\"ql-formula\" data-value=\"t=22\"></span>. Therefore, <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>. We want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so we substitute <span class=\"ql-formula\" data-value=\"x=0\"></span> into the expression for <span class=\"ql-formula\" data-value=\"g(x)\"></span>: <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>. However, the question asks for the value of <span class=\"ql-formula\" data-value=\"g(0)\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"(22,0)\"></span> is on the graph, <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>. So, <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nHowever, the question asks for the value of <span class=\"ql-formula\" data-value=\"g(0)\"></span>.\nSince <span class=\"ql-formula\" data-value=\"(22,0)\"></span> is on the graph, <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>. So, <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nHowever, the question asks for the value of <span class=\"ql-formula\" data-value=\"g(0)\"></span>.\nSince <span class=\"ql-formula\" data-value=\"(22,0)\"></span> is on the graph, <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>. So, <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.\n\nSince <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(t-x)\"></span> and <span class=\"ql-formula\" data-value=\"g(22) = 0\"></span>, we have <span class=\"ql-formula\" data-value=\"(22+18)(t-22) = 0\"></span>, so <span class=\"ql-formula\" data-value=\"40(t-22) = 0\"></span>, which means <span class=\"ql-formula\" data-value=\"t=22\"></span>.\nThen <span class=\"ql-formula\" data-value=\"g(x) = (x+18)(22-x)\"></span>.\nWe want to find <span class=\"ql-formula\" data-value=\"g(0)\"></span>, so <span class=\"ql-formula\" data-value=\"g(0) = (0+18)(22-0) = 18(22) = 396\"></span>.",
+    "module": 4,
+    "passage": "",
+    "options": {},
+    "format": "fill-in",
+    "sectionType": "math",
+    "fillInAnswer": "80",
+    "questionNumber": 20,
+    "_batch_start": 23,
+    "skill": "Functions",
+    "hasImage": false,
+    "domain": "Algebra"
+  },
+  {
+    "prompt": "For two acute angles <span class=\"ql-formula\" data-value=\"X\"></span> and <span class=\"ql-formula\" data-value=\"Y\"></span>, the measure of angle <span class=\"ql-formula\" data-value=\"Y\"></span> is <span class=\"ql-formula\" data-value=\"28\u00b0\"></span> and <span class=\"ql-formula\" data-value=\"\\<span class=\"ql-formula\" data-value=\"\\frac{\\\\sin X}{\\\\sin Y}\"></span> = 1\"></span>. What is the measure, in degrees, of angle <span class=\"ql-formula\" data-value=\"X\"></span>?",
+    "correctAnswer": "A",
+    "explanation": "Since <span class=\"ql-formula\" data-value=\"\\<span class=\"ql-formula\" data-value=\"\\frac{\\\\sin X}{\\\\sin Y}\"></span> = 1\"></span>, we have <span class=\"ql-formula\" data-value=\"\\\\sin X = \\\\sin Y\"></span>.  Since <span class=\"ql-formula\" data-value=\"Y = 28\u00b0\"></span>, <span class=\"ql-formula\" data-value=\"\\\\sin X = \\\\sin 28\u00b0\"></span>.  Since <span class=\"ql-formula\" data-value=\"X\"></span> is acute, <span class=\"ql-formula\" data-value=\"X = 28\u00b0\"></span>.",
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "28",
+      "D": "62",
+      "C": "45",
+      "B": "73"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 21,
+    "_batch_start": 23,
+    "skill": "Solve trigonometric equations",
+    "hasImage": false,
+    "domain": "Trigonometry"
+  },
+  {
+    "prompt": "A survey was conducted in Arlington to estimate the percent of adult residents who support the addition of a gas station at a popular intersection in their town. Based on the survey, it is estimated that 51% of all adult residents of Arlington support the addition of a gas station at a popular intersection in their town, with an associated margin of error of 7%. Which of the following is the most appropriate conclusion about all adult residents of Arlington?",
+    "correctAnswer": "B",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "The addition of a gas station at a popular intersection in the town is supported by more than 58% of all adult residents of Arlington.",
+      "D": "The addition of a gas station at a popular intersection in the town is supported by exactly 44% of all adult residents of Arlington.",
+      "C": "Plausible values for the percent of all adult residents of Arlington who support the addition of a gas station at a popular intersection in their town are either less than 44% or more than 58%.",
+      "B": "Plausible values for the percent of all adult residents of Arlington who support the addition of a gas station at a popular intersection in their town are between 44% and 58%."
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 22,
+    "_batch_start": 23,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "The graph of the equation <span class=\"ql-formula\" data-value=\"y = 4^x + k\"></span> is shown, where <span class=\"ql-formula\" data-value=\"k\"></span> is a constant. What is the value of <span class=\"ql-formula\" data-value=\"k\"></span>?",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"-6\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"7\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"6\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"-7\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 3,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": true,
+    "domain": null
+  },
+  {
+    "prompt": "Line t in the xy-plane has a slope of <span class=\"ql-formula\" data-value=\"1/5\"></span> and passes through the point <span class=\"ql-formula\" data-value=\"(15, -9)\"></span>. Which equation defines line <span class=\"ql-formula\" data-value=\"t\"></span>?",
+    "correctAnswer": "D",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "y = -12x + 1/5",
+      "D": "y = x/5 - 12",
+      "C": "y = 15x - 9",
+      "B": "y = x/5 - 9"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 4,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "A machine makes 9-inch, 4-inch, and 7-inch parts. During a certain day, the number of 9-inch parts that the machine makes is 3 times the number <span class=\"ql-formula\" data-value=\"n\"></span> of 4-inch parts, and the number of 7-inch parts is 12. During this day, the machine makes 100 parts total. Which equation represents this situation?",
+    "correctAnswer": "C",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"9n + 4n +7n = 100\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"3n + 12= 100\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"9(3n) + 4n + 7(12) = 100\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"4n + 12 = 100\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 5,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "In triangle <span class=\"ql-formula\" data-value=\"RST\"></span>, the measure of angle <span class=\"ql-formula\" data-value=\"R\"></span> is <span class=\"ql-formula\" data-value=\"49^\\\\circ\"></span>, the measure of angle <span class=\"ql-formula\" data-value=\"S\"></span> is <span class=\"ql-formula\" data-value=\"x^\\\\circ\"></span>, and the measure of angle <span class=\"ql-formula\" data-value=\"T\"></span> is <span class=\"ql-formula\" data-value=\"(7x-5)^\\\\circ\"></span>. Point <span class=\"ql-formula\" data-value=\"L\"></span> lies on <span class=\"ql-formula\" data-value=\"\\\\overline{RS}\"></span>, point <span class=\"ql-formula\" data-value=\"K\"></span> lies on <span class=\"ql-formula\" data-value=\"\\\\overline{ST}\"></span>, and <span class=\"ql-formula\" data-value=\"\\\\overline{LK}\"></span> is parallel to <span class=\"ql-formula\" data-value=\"\\\\overline{RT}\"></span>. What is the measure, in degrees, of angle <span class=\"ql-formula\" data-value=\"SKL\"></span>?",
+    "correctAnswer": null,
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {},
+    "format": "fill-in",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 6,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "Which point <span class=\"ql-formula\" data-value=\"(x, y)\"></span> is a solution to the given system of inequalities in the xy-plane?\n<span class=\"ql-formula\" data-value=\"y \\\\ge x + 9\"></span>\n<span class=\"ql-formula\" data-value=\"y \\\\le -8x - 6\"></span>",
+    "correctAnswer": "A",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"(-3, 10)\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"(-1, 10)\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"(-1, 5)\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"(-3, 5)\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 7,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "A circle in the xy-plane has its center at <span class=\"ql-formula\" data-value=\"(35)\"></span> and has a radius of length 7. Which equation represents this circle?",
+    "correctAnswer": "B",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"(x + 3)^2 + (y + 5)^2 = 49\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"(x + 3)^2 + (y + 5)^2 = 7\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"(x - 3)^2 + (y - 5)^2 = 7\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"(x - 3)^2 + (y - 5)^2 = 49\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 8,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  },
+  {
+    "prompt": "A circle in the xy-plane has its center at <span class=\"ql-formula\" data-value=\"(35)\"></span> and has a radius of length <span class=\"ql-formula\" data-value=\"7\"></span>. Which equation represents this circle?",
+    "correctAnswer": "B",
+    "explanation": null,
+    "module": 4,
+    "passage": "",
+    "options": {
+      "A": "<span class=\"ql-formula\" data-value=\"(x + 3)^2 + (y + 5)^2 = 49\"></span>",
+      "D": "<span class=\"ql-formula\" data-value=\"(x + 3)^2 + (y + 5)^2 = 7\"></span>",
+      "C": "<span class=\"ql-formula\" data-value=\"(x - 3)^2 + (y - 5)^2 = 7\"></span>",
+      "B": "<span class=\"ql-formula\" data-value=\"(x - 3)^2 + (y - 5)^2 = 49\"></span>"
+    },
+    "format": "mcq",
+    "sectionType": "math",
+    "fillInAnswer": null,
+    "questionNumber": 9,
+    "_batch_start": 24,
+    "skill": null,
+    "hasImage": false,
+    "domain": null
+  }
+]

@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive Info (DO NOT REMOVE FROM GITIGNORE)
+.env
+serviceAccountKey.json
+
+# Local Progress & Quotas
+key_usage.json
+progress.json
+progress/
+
+# Temp Data & Output
+output/
+temp_pages/
+test_crops/
+
+# Local Logs
+*.log
+
+# Mac OS junk
+.DS_Store
