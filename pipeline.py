@@ -546,7 +546,7 @@ def write_to_firestore(test_id, test_name, questions, category):
     test_ref.set({
         "name": test_name,
         "testCategory": category,
-        "visibility": "show",
+        "visibility": "public",
         "createdBy": config.ADMIN_UID,
         "questionCount": len(questions),
         "createdAt": firestore.SERVER_TIMESTAMP
